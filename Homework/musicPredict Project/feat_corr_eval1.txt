@@ -1,0 +1,290 @@
+Features:   Ambitious  .  Amiable/Good-Natured    --> Correlation: 0.996328
+Features:   Amiable/Good-Natured  .  Ambitious    --> Correlation: 0.996328
+Features:   Bittersweet  .  Bleak    --> Correlation: 0.993284
+Features:   Bittersweet  .  Boisterous    --> Correlation: 0.981211
+Features:   Bleak  .  Bittersweet    --> Correlation: 0.993284
+Features:   Bleak  .  Boisterous    --> Correlation: 0.984064
+Features:   Boisterous  .  Bittersweet    --> Correlation: 0.981211
+Features:   Boisterous  .  Bleak    --> Correlation: 0.984064
+Features:   Campy  .  Capricious    --> Correlation: 0.951940
+Features:   Capricious  .  Campy    --> Correlation: 0.951940
+Features:   Desperate  .  Detached    --> Correlation: 0.965640
+Features:   Detached  .  Desperate    --> Correlation: 0.965640
+Features:   Difficult  .  Dignified/Noble    --> Correlation: 0.973036
+Features:   Difficult  .  Dramatic    --> Correlation: 0.981421
+Features:   Dignified/Noble  .  Difficult    --> Correlation: 0.973036
+Features:   Dignified/Noble  .  Dramatic    --> Correlation: 0.990594
+Features:   Dramatic  .  Difficult    --> Correlation: 0.981421
+Features:   Dramatic  .  Dignified/Noble    --> Correlation: 0.990594
+Features:   Fractured  .  Chicago Soul    --> Correlation: 0.979810
+Features:   Fractured  .  Close Harmony    --> Correlation: 0.979810
+Features:   Fractured  .  Experimental Ambient    --> Correlation: 0.970111
+Features:   Fun  .  Chicago Soul    --> Correlation: 0.979810
+Features:   Fun  .  Close Harmony    --> Correlation: 0.979810
+Features:   Fun  .  Experimental Ambient    --> Correlation: 0.970111
+Features:   Funereal  .  Chicago Soul    --> Correlation: 0.979810
+Features:   Funereal  .  Close Harmony    --> Correlation: 0.979810
+Features:   Funereal  .  Experimental Ambient    --> Correlation: 0.970111
+Features:   Gleeful  .  Gloomy    --> Correlation: 0.964926
+Features:   Gloomy  .  Gleeful    --> Correlation: 0.964926
+Features:   Jovial  .  art rock    --> Correlation: 0.966567
+Features:   Marching  .  Martial    --> Correlation: 0.992117
+Features:   Martial  .  Marching    --> Correlation: 0.992117
+Features:   Meandering  .  Mechanical    --> Correlation: 0.995324
+Features:   Mechanical  .  Meandering    --> Correlation: 0.995324
+Features:   Naive  .  Narcotic    --> Correlation: 0.988659
+Features:   Narcotic  .  Naive    --> Correlation: 0.988659
+Features:   Nostalgic  .  Ominous    --> Correlation: 0.986849
+Features:   Ominous  .  Nostalgic    --> Correlation: 0.986849
+Features:   Philosophical  .  Jungle/Drum'n'Bass    --> Correlation: 0.976608
+Features:   Philosophical  .  Kayokyoku    --> Correlation: 0.976608
+Features:   Philosophical  .  Punk-Pop    --> Correlation: 0.971944
+Features:   Philosophical  .  epic    --> Correlation: 0.990767
+Features:   Philosophical  .  ethereal    --> Correlation: 0.990767
+Features:   Philosophical  .  experimental    --> Correlation: 0.990767
+Features:   Philosophical  .  gothic metal    --> Correlation: 0.986476
+Features:   Playful (Mood)  .  Poignant    --> Correlation: 0.953137
+Features:   Poignant  .  Playful (Mood)    --> Correlation: 0.953137
+Features:   Reserved  .  Resolute    --> Correlation: 0.964809
+Features:   Resolute  .  Reserved    --> Correlation: 0.964809
+Features:   Scary  .  Scattered    --> Correlation: 0.969372
+Features:   Scattered  .  Scary    --> Correlation: 0.969372
+Features:   Sentimental  .  Severe    --> Correlation: 0.995597
+Features:   Severe  .  Sentimental    --> Correlation: 0.995597
+Features:   Sexy  .  Power Pop    --> Correlation: 0.979478
+Features:   Sexy  .  Prog-Rock    --> Correlation: 0.973750
+Features:   Sprawling  .  Rock & Roll/Roots    --> Correlation: 0.954938
+Features:   Sprawling  .  Rodeo    --> Correlation: 0.954938
+Features:   Sprawling  .  Scandinavian Pop    --> Correlation: 0.954938
+Features:   Unsettling  .  Uplifting    --> Correlation: 0.950377
+Features:   Uplifting  .  Unsettling    --> Correlation: 0.950377
+Features:   Whimsical  .  Wintry    --> Correlation: 0.999406
+Features:   Whimsical  .  Wistful    --> Correlation: 0.989408
+Features:   Wintry  .  Whimsical    --> Correlation: 0.999406
+Features:   Wintry  .  Wistful    --> Correlation: 0.983815
+Features:   Wistful  .  Whimsical    --> Correlation: 0.989408
+Features:   Wistful  .  Wintry    --> Correlation: 0.983815
+Features:   2-Step/British Garage  .  Aboriginal Rock    --> Correlation: 0.996705
+Features:   Aboriginal Rock  .  2-Step/British Garage    --> Correlation: 0.996705
+Features:   Alt-Country  .  Alternative Country-Rock    --> Correlation: 0.975633
+Features:   Alternative Country-Rock  .  Alt-Country    --> Correlation: 0.975633
+Features:   Alternative Dance  .  Alternative Folk    --> Correlation: 0.984652
+Features:   Alternative Folk  .  Alternative Dance    --> Correlation: 0.984652
+Features:   Chicago Soul  .  Fractured    --> Correlation: 0.979810
+Features:   Chicago Soul  .  Fun    --> Correlation: 0.979810
+Features:   Chicago Soul  .  Funereal    --> Correlation: 0.979810
+Features:   Close Harmony  .  Fractured    --> Correlation: 0.979810
+Features:   Close Harmony  .  Fun    --> Correlation: 0.979810
+Features:   Close Harmony  .  Funereal    --> Correlation: 0.979810
+Features:   Country-Pop  .  Country-Rock    --> Correlation: 0.956309
+Features:   Country-Rock  .  Country-Pop    --> Correlation: 0.956309
+Features:   Dream Pop  .  Drill'n'bass    --> Correlation: 0.995564
+Features:   Drill'n'bass  .  Dream Pop    --> Correlation: 0.995564
+Features:   Emo  .  Euro-Pop    --> Correlation: 0.997715
+Features:   Euro-Pop  .  Emo    --> Correlation: 0.997715
+Features:   Euro-Rock  .  Europop    --> Correlation: 0.975249
+Features:   Europop  .  Euro-Rock    --> Correlation: 0.975249
+Features:   Experimental Ambient  .  Fractured    --> Correlation: 0.970111
+Features:   Experimental Ambient  .  Fun    --> Correlation: 0.970111
+Features:   Experimental Ambient  .  Funereal    --> Correlation: 0.970111
+Features:   Funk  .  Funk Metal    --> Correlation: 0.992286
+Features:   Funk Metal  .  Funk    --> Correlation: 0.992286
+Features:   Funky Breaks  .  G-Funk    --> Correlation: 0.995157
+Features:   G-Funk  .  Funky Breaks    --> Correlation: 0.995157
+Features:   G-Funk  .  Gangsta Rap    --> Correlation: 0.995157
+Features:   Gangsta Rap  .  G-Funk    --> Correlation: 0.995157
+Features:   Hair Metal  .  Hard Rock    --> Correlation: 0.993703
+Features:   Hard Rock  .  Hair Metal    --> Correlation: 0.993703
+Features:   Hardcore Punk  .  Hardcore Rap    --> Correlation: 0.973078
+Features:   Hardcore Punk  .  Hardcore Techno    --> Correlation: 0.991288
+Features:   Hardcore Rap  .  Hardcore Punk    --> Correlation: 0.973078
+Features:   Hardcore Rap  .  Hardcore Techno    --> Correlation: 0.964580
+Features:   Hardcore Techno  .  Hardcore Punk    --> Correlation: 0.991288
+Features:   Hardcore Techno  .  Hardcore Rap    --> Correlation: 0.964580
+Features:   Honky Tonk  .  Military    --> Correlation: 0.969076
+Features:   Jungle/Drum'n'Bass  .  Philosophical    --> Correlation: 0.976608
+Features:   Jungle/Drum'n'Bass  .  Punk-Pop    --> Correlation: 0.958904
+Features:   Jungle/Drum'n'Bass  .  epic    --> Correlation: 0.979504
+Features:   Jungle/Drum'n'Bass  .  ethereal    --> Correlation: 0.979504
+Features:   Jungle/Drum'n'Bass  .  experimental    --> Correlation: 0.979504
+Features:   Kayokyoku  .  Philosophical    --> Correlation: 0.976608
+Features:   Kayokyoku  .  Punk-Pop    --> Correlation: 0.958904
+Features:   Kayokyoku  .  epic    --> Correlation: 0.979504
+Features:   Kayokyoku  .  ethereal    --> Correlation: 0.979504
+Features:   Kayokyoku  .  experimental    --> Correlation: 0.979504
+Features:   L.A. Punk  .  epic    --> Correlation: 0.960727
+Features:   L.A. Punk  .  ethereal    --> Correlation: 0.960727
+Features:   L.A. Punk  .  experimental    --> Correlation: 0.960727
+Features:   Motown  .  Nashville Sound/Countrypolitan    --> Correlation: 0.977441
+Features:   Nashville Sound/Countrypolitan  .  Motown    --> Correlation: 0.977441
+Features:   Neo-Electro  .  Neo-Glam    --> Correlation: 0.969406
+Features:   Neo-Glam  .  Neo-Electro    --> Correlation: 0.969406
+Features:   Neo-Prog  .  Neo-Traditional Folk    --> Correlation: 0.955844
+Features:   Neo-Traditional Folk  .  Neo-Prog    --> Correlation: 0.955844
+Features:   Newbeat  .  No Wave    --> Correlation: 0.999154
+Features:   No Wave  .  Newbeat    --> Correlation: 0.999154
+Features:   Obscuro  .  Oi!    --> Correlation: 0.958650
+Features:   Oi!  .  Obscuro    --> Correlation: 0.958650
+Features:   Power Pop  .  Sexy    --> Correlation: 0.979478
+Features:   Power Pop  .  Prog-Rock    --> Correlation: 0.992022
+Features:   Prog-Rock  .  Sexy    --> Correlation: 0.973750
+Features:   Prog-Rock  .  Power Pop    --> Correlation: 0.992022
+Features:   Punk-Pop  .  Philosophical    --> Correlation: 0.971944
+Features:   Punk-Pop  .  Jungle/Drum'n'Bass    --> Correlation: 0.958904
+Features:   Punk-Pop  .  Kayokyoku    --> Correlation: 0.958904
+Features:   Punk-Pop  .  epic    --> Correlation: 0.963622
+Features:   Punk-Pop  .  ethereal    --> Correlation: 0.963622
+Features:   Punk-Pop  .  experimental    --> Correlation: 0.963622
+Features:   Punk-Pop  .  gothic metal    --> Correlation: 0.956841
+Features:   Riot Grrrl  .  Rock & Roll/Roots    --> Correlation: 0.950544
+Features:   Riot Grrrl  .  Rodeo    --> Correlation: 0.950544
+Features:   Riot Grrrl  .  Scandinavian Pop    --> Correlation: 0.950544
+Features:   Rock & Roll/Roots  .  Sprawling    --> Correlation: 0.954938
+Features:   Rock & Roll/Roots  .  Riot Grrrl    --> Correlation: 0.950544
+Features:   Rock & Roll/Roots  .  Roots Rock    --> Correlation: 0.954938
+Features:   Rock & Roll/Roots  .  Scandinavian Metal    --> Correlation: 0.950544
+Features:   Rock & Roll/Roots  .  Screamo    --> Correlation: 0.954938
+Features:   Rodeo  .  Sprawling    --> Correlation: 0.954938
+Features:   Rodeo  .  Riot Grrrl    --> Correlation: 0.950544
+Features:   Rodeo  .  Roots Rock    --> Correlation: 0.954938
+Features:   Rodeo  .  Scandinavian Metal    --> Correlation: 0.950544
+Features:   Rodeo  .  Screamo    --> Correlation: 0.954938
+Features:   Roots Rock  .  Rock & Roll/Roots    --> Correlation: 0.954938
+Features:   Roots Rock  .  Rodeo    --> Correlation: 0.954938
+Features:   Roots Rock  .  Scandinavian Pop    --> Correlation: 0.954938
+Features:   Scandinavian Metal  .  Rock & Roll/Roots    --> Correlation: 0.950544
+Features:   Scandinavian Metal  .  Rodeo    --> Correlation: 0.950544
+Features:   Scandinavian Metal  .  Scandinavian Pop    --> Correlation: 0.950544
+Features:   Scandinavian Pop  .  Sprawling    --> Correlation: 0.954938
+Features:   Scandinavian Pop  .  Riot Grrrl    --> Correlation: 0.950544
+Features:   Scandinavian Pop  .  Roots Rock    --> Correlation: 0.954938
+Features:   Scandinavian Pop  .  Scandinavian Metal    --> Correlation: 0.950544
+Features:   Scandinavian Pop  .  Screamo    --> Correlation: 0.954938
+Features:   Screamo  .  Rock & Roll/Roots    --> Correlation: 0.954938
+Features:   Screamo  .  Rodeo    --> Correlation: 0.954938
+Features:   Screamo  .  Scandinavian Pop    --> Correlation: 0.954938
+Features:   Singer/Songwriter  .  Ska Revival    --> Correlation: 0.983537
+Features:   Ska Revival  .  Singer/Songwriter    --> Correlation: 0.983537
+Features:   Tech-House  .  Techno    --> Correlation: 0.963835
+Features:   Tech-House  .  Techno Bass    --> Correlation: 0.983434
+Features:   Techno  .  Tech-House    --> Correlation: 0.963835
+Features:   Techno Bass  .  Tech-House    --> Correlation: 0.983434
+Features:   Dreaming  .  Drinking    --> Correlation: 0.997069
+Features:   Dreaming  .  Drugs    --> Correlation: 0.987513
+Features:   Drinking  .  Dreaming    --> Correlation: 0.997069
+Features:   Drinking  .  Drugs    --> Correlation: 0.983047
+Features:   Drugs  .  Dreaming    --> Correlation: 0.987513
+Features:   Drugs  .  Drinking    --> Correlation: 0.983047
+Features:   Easter  .  Empowering    --> Correlation: 0.951868
+Features:   Empowering  .  Easter    --> Correlation: 0.951868
+Features:   Empowering  .  Everyday Life    --> Correlation: 0.951868
+Features:   Everyday Life  .  Empowering    --> Correlation: 0.951868
+Features:   Goodbyes  .  Graduation    --> Correlation: 0.974315
+Features:   Graduation  .  Goodbyes    --> Correlation: 0.974315
+Features:   Halloween  .  Hanging Out    --> Correlation: 0.990867
+Features:   Hanging Out  .  Halloween    --> Correlation: 0.990867
+Features:   Heartbreak  .  High School    --> Correlation: 0.998845
+Features:   High School  .  Heartbreak    --> Correlation: 0.998845
+Features:   Introspection  .  Joy    --> Correlation: 0.969518
+Features:   Joy  .  Introspection    --> Correlation: 0.969518
+Features:   Long Walk  .  Loss/Grief    --> Correlation: 0.989593
+Features:   Loss/Grief  .  Long Walk    --> Correlation: 0.989593
+Features:   Military  .  Honky Tonk    --> Correlation: 0.969076
+Features:   Music  .  Nature    --> Correlation: 0.977904
+Features:   Nature  .  Music    --> Correlation: 0.977904
+Features:   Picnic  .  Playful (Theme)    --> Correlation: 0.999551
+Features:   Playful (Theme)  .  Picnic    --> Correlation: 0.999551
+Features:   Religion  .  Reminiscing    --> Correlation: 0.953933
+Features:   Reminiscing  .  Religion    --> Correlation: 0.953933
+Features:   Summer  .  Sun    --> Correlation: 0.987991
+Features:   Sun  .  Summer    --> Correlation: 0.987991
+Features:   Wedding  .  Winter    --> Correlation: 0.999869
+Features:   Winter  .  Wedding    --> Correlation: 0.999869
+Features:   Word Play  .  Work    --> Correlation: 0.968645
+Features:   Word Play  .  World View    --> Correlation: 0.968645
+Features:   Work  .  Word Play    --> Correlation: 0.968645
+Features:   World View  .  Word Play    --> Correlation: 0.968645
+Features:   All  .  Alt-country    --> Correlation: 0.982556
+Features:   Alt-country  .  All    --> Correlation: 0.982556
+Features:   art rock  .  Jovial    --> Correlation: 0.966567
+Features:   Avant-Garde  .  awesome    --> Correlation: 0.980560
+Features:   awesome  .  Avant-Garde    --> Correlation: 0.980560
+Features:   beautiful  .  Beyonc    --> Correlation: 0.995324
+Features:   beautiful  .  beyonce    --> Correlation: 0.972690
+Features:   beautiful  .  blues rock    --> Correlation: 0.973090
+Features:   Beyonc  .  beautiful    --> Correlation: 0.995324
+Features:   Beyonc  .  beyonce    --> Correlation: 0.977626
+Features:   Beyonc  .  blues    --> Correlation: 0.995324
+Features:   Beyonc  .  blues rock    --> Correlation: 0.977977
+Features:   beyonce  .  beautiful    --> Correlation: 0.972690
+Features:   beyonce  .  Beyonc    --> Correlation: 0.977626
+Features:   beyonce  .  blues    --> Correlation: 0.972690
+Features:   beyonce  .  blues rock    --> Correlation: 0.999710
+Features:   blues  .  Beyonc    --> Correlation: 0.995324
+Features:   blues  .  beyonce    --> Correlation: 0.972690
+Features:   blues  .  blues rock    --> Correlation: 0.973090
+Features:   blues rock  .  beautiful    --> Correlation: 0.973090
+Features:   blues rock  .  Beyonc    --> Correlation: 0.977977
+Features:   blues rock  .  beyonce    --> Correlation: 0.999710
+Features:   blues rock  .  blues    --> Correlation: 0.973090
+Features:   breakcore  .  britpop    --> Correlation: 0.995119
+Features:   britpop  .  breakcore    --> Correlation: 0.995119
+Features:   darkwave  .  death metal    --> Correlation: 0.989959
+Features:   death metal  .  darkwave    --> Correlation: 0.989959
+Features:   dreamy  .  drone    --> Correlation: 0.972808
+Features:   dreamy  .  drum and bass    --> Correlation: 0.972808
+Features:   drone  .  dreamy    --> Correlation: 0.972808
+Features:   drum and bass  .  dreamy    --> Correlation: 0.972808
+Features:   ebm  .  Electro Pop    --> Correlation: 0.975379
+Features:   ebm  .  electroclash    --> Correlation: 0.975379
+Features:   Electro Pop  .  ebm    --> Correlation: 0.975379
+Features:   Electro Pop  .  electronic    --> Correlation: 0.975379
+Features:   electroclash  .  ebm    --> Correlation: 0.975379
+Features:   electroclash  .  electronic    --> Correlation: 0.975379
+Features:   electronic  .  Electro Pop    --> Correlation: 0.975379
+Features:   electronic  .  electroclash    --> Correlation: 0.975379
+Features:   electropop  .  emo    --> Correlation: 0.981272
+Features:   emo  .  electropop    --> Correlation: 0.981272
+Features:   emocore  .  favorite    --> Correlation: 0.982528
+Features:   epic  .  Philosophical    --> Correlation: 0.990767
+Features:   epic  .  Jungle/Drum'n'Bass    --> Correlation: 0.979504
+Features:   epic  .  Kayokyoku    --> Correlation: 0.979504
+Features:   epic  .  L.A. Punk    --> Correlation: 0.960727
+Features:   epic  .  Punk-Pop    --> Correlation: 0.963622
+Features:   epic  .  gothic metal    --> Correlation: 0.967799
+Features:   ethereal  .  Philosophical    --> Correlation: 0.990767
+Features:   ethereal  .  Jungle/Drum'n'Bass    --> Correlation: 0.979504
+Features:   ethereal  .  Kayokyoku    --> Correlation: 0.979504
+Features:   ethereal  .  L.A. Punk    --> Correlation: 0.960727
+Features:   ethereal  .  Punk-Pop    --> Correlation: 0.963622
+Features:   ethereal  .  gothic metal    --> Correlation: 0.967799
+Features:   experimental  .  Philosophical    --> Correlation: 0.990767
+Features:   experimental  .  Jungle/Drum'n'Bass    --> Correlation: 0.979504
+Features:   experimental  .  Kayokyoku    --> Correlation: 0.979504
+Features:   experimental  .  L.A. Punk    --> Correlation: 0.960727
+Features:   experimental  .  Punk-Pop    --> Correlation: 0.963622
+Features:   experimental  .  gothic metal    --> Correlation: 0.967799
+Features:   favorite  .  emocore    --> Correlation: 0.982528
+Features:   female vocalist  .  female vocals    --> Correlation: 0.971178
+Features:   female vocalists  .  female vocals    --> Correlation: 0.971178
+Features:   female vocals  .  female vocalist    --> Correlation: 0.971178
+Features:   female vocals  .  female vocalists    --> Correlation: 0.971178
+Features:   folk rock  .  folktronica    --> Correlation: 0.973088
+Features:   folktronica  .  folk rock    --> Correlation: 0.973088
+Features:   glam rock  .  good    --> Correlation: 0.993263
+Features:   glam rock  .  goth    --> Correlation: 0.974839
+Features:   good  .  glam rock    --> Correlation: 0.993263
+Features:   good  .  goth    --> Correlation: 0.981038
+Features:   goth  .  glam rock    --> Correlation: 0.974839
+Features:   goth  .  good    --> Correlation: 0.981038
+Features:   gothic metal  .  Philosophical    --> Correlation: 0.986476
+Features:   gothic metal  .  Punk-Pop    --> Correlation: 0.956841
+Features:   gothic metal  .  epic    --> Correlation: 0.967799
+Features:   gothic metal  .  ethereal    --> Correlation: 0.967799
+Features:   gothic metal  .  experimental    --> Correlation: 0.967799
+Features:   grunge  .  guitar    --> Correlation: 0.990224
+Features:   guitar  .  grunge    --> Correlation: 0.990224
+Features:   guitar virtuoso  .  happy    --> Correlation: 0.987985
+Features:   happy  .  guitar virtuoso    --> Correlation: 0.987985
+Features:   heavy metal  .  hip hop    --> Correlation: 0.979553
+Features:   hip hop  .  heavy metal    --> Correlation: 0.979553

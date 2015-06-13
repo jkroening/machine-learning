@@ -1,0 +1,174 @@
+Ambient
+Dark Ambient
+Blues
+Acoustic Blues
+Country Blues
+Electric Blues
+Western Classical Music
+Modern Classical
+Orchestral
+Dance
+Eurodance
+Disco
+Electro-Disco
+Italo-Disco
+Electronic Dance Music
+Breakbeat
+Breakbeat Hardcore
+Drum and Bass
+Jungle
+Dubstep
+Brostep
+EBM
+Freestyle
+Hardcore [EDM]
+House
+Electro House
+Ghetto House
+Juke
+Hard House
+Progressive House
+Moombahton
+Techno
+Minimal Techno
+Trance
+Hard Trance
+Hardstyle
+Psytrance
+UK Garage
+Darkwave
+Abstract Hip Hop
+A cappella
+Acoustic Rock
+CCM
+Chamber Music
+Christian Hip Hop
+Christian Rock
+Comedy
+Musical Comedy
+Conscious Hip Hop
+Descriptor
+Gangsta Rap
+Holiday Music
+Film Soundtrack
+Soundtracks
+Spoken Word
+Poetry
+Teen Pop
+Vocal Group
+Electronic
+Bit Music
+Downtempo
+IDM
+Breakcore
+Indietronica
+Minimal Wave
+Nu Jazz
+Synth Pop
+Experimental
+Industrial
+Noise
+Sound Collage
+Plunderphonics
+Fantasy Music
+Field Recordings
+Folk
+Contemporary Folk
+Neofolk
+Psychedelic Folk
+Traditional Folk Music
+American Folk Music
+Country Blues
+Gospel
+Country Gospel
+Ragtime
+Traditional Country
+Bluegrass
+English Folk Music
+Yodeling
+Hip Hop
+Crunk
+Experimental Hip Hop
+Hardcore Hip Hop
+Gangsta Rap
+Hyphy
+Latin Rap
+Miami Bass
+UK Hip Hop
+Industrial Music
+Industrial
+Industrial Metal
+Jazz
+Avant-Garde Jazz
+Bebop
+Big Band
+Latin Jazz
+Swing
+Musical Theatre and Entertainment
+New Age
+Pop
+Adult Contemporary
+Baroque Pop
+CCM
+Country Pop
+Easy Listening
+Lounge
+Indie Pop
+Pop Rock
+Beat Music
+Synth Pop
+Traditional Pop
+R&B
+Contemporary R&B
+Funk
+Soul
+Southern Soul
+Rock
+Alternative Rock
+Indie Rock
+Blues Rock
+Country Rock
+Emo
+Emocore
+Experimental Rock
+Folk Rock
+Garage Rock
+Gothic Rock
+Hard Rock
+Metal
+Alternative Metal
+Black Metal
+Atmospheric Black Metal
+Death Metal
+Brutal Death Metal
+Doom Metal
+Folk Metal
+Grindcore
+Heavy Metal
+Industrial Metal
+Melodic Metalcore
+Metalcore
+Progressive Metal
+Sludge Metal
+Thrash Metal
+Mod
+New Wave
+Pop Rock
+Post-Punk
+Progressive Rock
+Psychedelic Rock
+Neo-Psychedelia
+Punk Rock
+Folk Punk
+Hardcore Punk
+Crust Punk
+Grindcore
+Metalcore
+Post-Hardcore
+Rock & Roll
+Rockabilly
+Roots Rock
+Southern Rock
+Singer/Songwriter
+Ska
+Third Wave Ska

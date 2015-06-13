@@ -1,0 +1,4 @@
+Time Difference:
+
+14.783 seconds without vectorizaton
+78 milliseconds with vectorization

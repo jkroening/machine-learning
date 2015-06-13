@@ -1,0 +1,8 @@
+Prediction Project Ideas
+
+compute album similarity to recommend similar albums
+
+once you've determined coefficients for each user as they apply to all the feature metadata, see if you can pca those down into 3 coefficients and use those as a unique "RGB" value for that user.
+
+find someway to use the coefficients to describe the user using a "Top 5" of their music personality.
+Pare down all the features into a total of 34 or some logical number like Strengths, then bin the features accordingly for purposes of describing a Top 5 per user.

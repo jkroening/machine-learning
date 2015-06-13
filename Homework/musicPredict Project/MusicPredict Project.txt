@@ -1,0 +1,23 @@
+MusicPredict Project
+
+
+Database Features:
+
+1 albumID
+1 artist
+1 title
+21 Genres
+289 Moods
+373 Styles
+182 Themes
+296 Tags (and growing)
+
+
+User Ratings Features:
+
+1 userID
+1 albumID
+1 artist
+1 title
+1 rating
+1 plays

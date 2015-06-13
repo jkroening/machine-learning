@@ -1,0 +1,4990 @@
+User 1 -- Components 1
+0.0713414316902
+User 2 -- Components 1
+0.0877923050794
+User 3 -- Components 1
+0.116810221943
+User 4 -- Components 1
+0.106937634034
+User 5 -- Components 1
+0.358571980723
+User 1 -- Components 2
+0.112574871609
+User 2 -- Components 2
+0.145790763779
+User 3 -- Components 2
+0.200618018942
+User 4 -- Components 2
+0.18042011711
+User 5 -- Components 2
+0.4222125222
+User 1 -- Components 3
+0.15244462927
+User 2 -- Components 3
+0.191102588502
+User 3 -- Components 3
+0.276455304531
+User 4 -- Components 3
+0.250425620177
+User 5 -- Components 3
+0.468609852817
+User 1 -- Components 4
+0.186137640276
+User 2 -- Components 4
+0.230466480658
+User 3 -- Components 4
+0.338748561055
+User 4 -- Components 4
+0.304324915137
+User 5 -- Components 4
+0.511675866292
+User 1 -- Components 5
+0.216626695821
+User 2 -- Components 5
+0.26666181603
+User 3 -- Components 5
+0.399253911023
+User 4 -- Components 5
+0.355192518612
+User 5 -- Components 5
+0.544984922924
+User 1 -- Components 6
+0.236899240965
+User 2 -- Components 6
+0.297943920337
+User 3 -- Components 6
+0.447144147691
+User 4 -- Components 6
+0.400757718352
+User 5 -- Components 6
+0.57807379893
+User 1 -- Components 7
+0.255689245428
+User 2 -- Components 7
+0.325689616525
+User 3 -- Components 7
+0.493738156072
+User 4 -- Components 7
+0.443371022933
+User 5 -- Components 7
+0.608004909679
+User 1 -- Components 8
+0.273310892051
+User 2 -- Components 8
+0.3520890637
+User 3 -- Components 8
+0.533234224484
+User 4 -- Components 8
+0.480894158016
+User 5 -- Components 8
+0.636415519999
+User 1 -- Components 9
+0.289011900532
+User 2 -- Components 9
+0.376557878657
+User 3 -- Components 9
+0.570654083729
+User 4 -- Components 9
+0.51578815365
+User 5 -- Components 9
+0.660492603399
+User 1 -- Components 10
+0.303170241677
+User 2 -- Components 10
+0.399482707384
+User 3 -- Components 10
+0.607544033989
+User 4 -- Components 10
+0.549911321799
+User 5 -- Components 10
+0.68290935235
+User 1 -- Components 11
+0.316966223988
+User 2 -- Components 11
+0.421917360415
+User 3 -- Components 11
+0.642274714466
+User 4 -- Components 11
+0.582738920811
+User 5 -- Components 11
+0.704509578548
+User 1 -- Components 12
+0.329931047676
+User 2 -- Components 12
+0.442398479355
+User 3 -- Components 12
+0.673203844831
+User 4 -- Components 12
+0.612207345844
+User 5 -- Components 12
+0.724051965055
+User 1 -- Components 13
+0.342081623431
+User 2 -- Components 13
+0.462593955752
+User 3 -- Components 13
+0.703304674426
+User 4 -- Components 13
+0.640678520704
+User 5 -- Components 13
+0.742437115995
+User 1 -- Components 14
+0.353506155147
+User 2 -- Components 14
+0.481593869935
+User 3 -- Components 14
+0.731152784988
+User 4 -- Components 14
+0.668289884615
+User 5 -- Components 14
+0.759853488032
+User 1 -- Components 15
+0.364503878801
+User 2 -- Components 15
+0.498993067529
+User 3 -- Components 15
+0.758336968365
+User 4 -- Components 15
+0.694611218469
+User 5 -- Components 15
+0.776850692206
+User 1 -- Components 16
+0.375327893101
+User 2 -- Components 16
+0.515709487803
+User 3 -- Components 16
+0.783746365294
+User 4 -- Components 16
+0.719113343212
+User 5 -- Components 16
+0.793411195035
+User 1 -- Components 17
+0.385580582196
+User 2 -- Components 17
+0.531619123273
+User 3 -- Components 17
+0.807275796189
+User 4 -- Components 17
+0.742631063714
+User 5 -- Components 17
+0.809253526038
+User 1 -- Components 18
+0.395637017213
+User 2 -- Components 18
+0.547233920608
+User 3 -- Components 18
+0.829642869701
+User 4 -- Components 18
+0.764784307456
+User 5 -- Components 18
+0.824290874716
+User 1 -- Components 19
+0.405458217139
+User 2 -- Components 19
+0.562413350699
+User 3 -- Components 19
+0.850373503958
+User 4 -- Components 19
+0.785544744429
+User 5 -- Components 19
+0.838681909076
+User 1 -- Components 20
+0.414877497459
+User 2 -- Components 20
+0.577018602944
+User 3 -- Components 20
+0.868866209679
+User 4 -- Components 20
+0.804964813426
+User 5 -- Components 20
+0.85191248431
+User 1 -- Components 21
+0.423867346239
+User 2 -- Components 21
+0.590986283768
+User 3 -- Components 21
+0.885715992272
+User 4 -- Components 21
+0.823486086139
+User 5 -- Components 21
+0.864812038273
+User 1 -- Components 22
+0.432755385313
+User 2 -- Components 22
+0.604222935777
+User 3 -- Components 22
+0.901166203885
+User 4 -- Components 22
+0.841015787259
+User 5 -- Components 22
+0.877191426216
+User 1 -- Components 23
+0.44142455148
+User 2 -- Components 23
+0.617027860415
+User 3 -- Components 23
+0.916047066893
+User 4 -- Components 23
+0.857844350792
+User 5 -- Components 23
+0.888656132121
+User 1 -- Components 24
+0.449877879728
+User 2 -- Components 24
+0.629439712674
+User 3 -- Components 24
+0.929362610529
+User 4 -- Components 24
+0.874372767148
+User 5 -- Components 24
+0.900056958025
+User 1 -- Components 25
+0.458094658298
+User 2 -- Components 25
+0.641351249112
+User 3 -- Components 25
+0.941453599897
+User 4 -- Components 25
+0.890260534646
+User 5 -- Components 25
+0.910752138834
+User 1 -- Components 26
+0.466121247758
+User 2 -- Components 26
+0.65302986599
+User 3 -- Components 26
+0.952370943323
+User 4 -- Components 26
+0.905333654078
+User 5 -- Components 26
+0.920401007391
+User 1 -- Components 27
+0.47398087974
+User 2 -- Components 27
+0.664375910788
+User 3 -- Components 27
+0.960008507993
+User 4 -- Components 27
+0.919270888843
+User 5 -- Components 27
+0.929297651252
+User 1 -- Components 28
+0.481774373581
+User 2 -- Components 28
+0.675361491297
+User 3 -- Components 28
+0.967320334833
+User 4 -- Components 28
+0.932497347004
+User 5 -- Components 28
+0.938122855534
+User 1 -- Components 29
+0.489403529322
+User 2 -- Components 29
+0.686069348982
+User 3 -- Components 29
+0.973773952481
+User 4 -- Components 29
+0.944433908526
+User 5 -- Components 29
+0.946766424634
+User 1 -- Components 30
+0.496839509156
+User 2 -- Components 30
+0.696605733429
+User 3 -- Components 30
+0.979845812164
+User 4 -- Components 30
+0.955504103862
+User 5 -- Components 30
+0.954323559258
+User 1 -- Components 31
+0.503957575704
+User 2 -- Components 31
+0.706693771629
+User 3 -- Components 31
+0.984771409846
+User 4 -- Components 31
+0.965799393056
+User 5 -- Components 31
+0.961647569051
+User 1 -- Components 32
+0.511041325207
+User 2 -- Components 32
+0.71624295565
+User 3 -- Components 32
+0.988967909721
+User 4 -- Components 32
+0.975766079987
+User 5 -- Components 32
+0.968632877842
+User 1 -- Components 33
+0.517812238947
+User 2 -- Components 33
+0.725503280707
+User 3 -- Components 33
+0.99220116376
+User 4 -- Components 33
+0.984741858956
+User 5 -- Components 33
+0.975288249432
+User 1 -- Components 34
+0.524525518233
+User 2 -- Components 34
+0.734662205741
+User 3 -- Components 34
+0.995013952181
+User 4 -- Components 34
+0.992491109106
+User 5 -- Components 34
+0.981217220715
+User 1 -- Components 35
+0.531159072718
+User 2 -- Components 35
+0.743664220655
+User 3 -- Components 35
+0.996807429759
+User 4 -- Components 35
+0.998771115583
+User 5 -- Components 35
+0.986919316699
+User 1 -- Components 36
+0.53759415765
+User 2 -- Components 36
+0.752531726863
+User 3 -- Components 36
+0.998106284051
+User 4 -- Components 36
+0.999657238704
+User 5 -- Components 36
+0.992082788811
+User 1 -- Components 37
+0.543884737993
+User 2 -- Components 37
+0.761223967777
+User 3 -- Components 37
+0.99907012251
+User 4 -- Components 37
+0.999883651348
+User 5 -- Components 37
+0.996953201099
+User 1 -- Components 38
+0.549988195563
+User 2 -- Components 38
+0.769560265883
+User 3 -- Components 38
+0.999640579615
+User 4 -- Components 38
+1.0
+User 5 -- Components 38
+0.998999242397
+User 1 -- Components 39
+0.55606803927
+User 2 -- Components 39
+0.777759257793
+User 3 -- Components 39
+0.999811818592
+User 4 -- Components 39
+1.0
+User 5 -- Components 39
+0.999928367833
+User 1 -- Components 40
+0.562053412213
+User 2 -- Components 40
+0.785802774305
+User 3 -- Components 40
+0.999947932549
+User 4 -- Components 40
+1.0
+User 5 -- Components 40
+1.0
+User 1 -- Components 41
+0.567929955038
+User 2 -- Components 41
+0.793312704979
+User 3 -- Components 41
+1.0
+User 4 -- Components 41
+1.0
+User 5 -- Components 41
+1.0
+User 1 -- Components 42
+0.573676077506
+User 2 -- Components 42
+0.800498474267
+User 3 -- Components 42
+1.0
+User 4 -- Components 42
+1.0
+User 5 -- Components 42
+1.0
+User 1 -- Components 43
+0.579259261709
+User 2 -- Components 43
+0.807577758904
+User 3 -- Components 43
+1.0
+User 4 -- Components 43
+1.0
+User 5 -- Components 43
+1.0
+User 1 -- Components 44
+0.584697476475
+User 2 -- Components 44
+0.814514690874
+User 3 -- Components 44
+1.0
+User 4 -- Components 44
+1.0
+User 5 -- Components 44
+1.0
+User 1 -- Components 45
+0.590099970505
+User 2 -- Components 45
+0.821312198734
+User 3 -- Components 45
+1.0
+User 4 -- Components 45
+1.0
+User 5 -- Components 45
+1.0
+User 1 -- Components 46
+0.595386328425
+User 2 -- Components 46
+0.827931762249
+User 3 -- Components 46
+1.0
+User 4 -- Components 46
+1.0
+User 5 -- Components 46
+1.0
+User 1 -- Components 47
+0.600669556277
+User 2 -- Components 47
+0.834305530295
+User 3 -- Components 47
+1.0
+User 4 -- Components 47
+1.0
+User 5 -- Components 47
+1.0
+User 1 -- Components 48
+0.605815838554
+User 2 -- Components 48
+0.840490378742
+User 3 -- Components 48
+1.0
+User 4 -- Components 48
+1.0
+User 5 -- Components 48
+1.0
+User 1 -- Components 49
+0.610871884762
+User 2 -- Components 49
+0.846467412163
+User 3 -- Components 49
+1.0
+User 4 -- Components 49
+1.0
+User 5 -- Components 49
+1.0
+User 1 -- Components 50
+0.615867028013
+User 2 -- Components 50
+0.852311760839
+User 3 -- Components 50
+1.0
+User 4 -- Components 50
+1.0
+User 5 -- Components 50
+1.0
+User 1 -- Components 51
+0.620797336556
+User 2 -- Components 51
+0.857978950259
+User 3 -- Components 51
+1.0
+User 4 -- Components 51
+1.0
+User 5 -- Components 51
+1.0
+User 1 -- Components 52
+0.625687265683
+User 2 -- Components 52
+0.863635102882
+User 3 -- Components 52
+1.0
+User 4 -- Components 52
+1.0
+User 5 -- Components 52
+1.0
+User 1 -- Components 53
+0.630506888138
+User 2 -- Components 53
+0.868963807619
+User 3 -- Components 53
+1.0
+User 4 -- Components 53
+1.0
+User 5 -- Components 53
+1.0
+User 1 -- Components 54
+0.635287161985
+User 2 -- Components 54
+0.874227280603
+User 3 -- Components 54
+1.0
+User 4 -- Components 54
+1.0
+User 5 -- Components 54
+1.0
+User 1 -- Components 55
+0.639899227355
+User 2 -- Components 55
+0.879424229183
+User 3 -- Components 55
+1.0
+User 4 -- Components 55
+1.0
+User 5 -- Components 55
+1.0
+User 1 -- Components 56
+0.644413606406
+User 2 -- Components 56
+0.884523428782
+User 3 -- Components 56
+1.0
+User 4 -- Components 56
+1.0
+User 5 -- Components 56
+1.0
+User 1 -- Components 57
+0.648887769173
+User 2 -- Components 57
+0.889383435899
+User 3 -- Components 57
+1.0
+User 4 -- Components 57
+1.0
+User 5 -- Components 57
+1.0
+User 1 -- Components 58
+0.653287010956
+User 2 -- Components 58
+0.894107230231
+User 3 -- Components 58
+1.0
+User 4 -- Components 58
+1.0
+User 5 -- Components 58
+1.0
+User 1 -- Components 59
+0.657630898725
+User 2 -- Components 59
+0.898702027597
+User 3 -- Components 59
+1.0
+User 4 -- Components 59
+1.0
+User 5 -- Components 59
+1.0
+User 1 -- Components 60
+0.661924721705
+User 2 -- Components 60
+0.903030900781
+User 3 -- Components 60
+1.0
+User 4 -- Components 60
+1.0
+User 5 -- Components 60
+1.0
+User 1 -- Components 61
+0.666144216636
+User 2 -- Components 61
+0.907291339945
+User 3 -- Components 61
+1.0
+User 4 -- Components 61
+1.0
+User 5 -- Components 61
+1.0
+User 1 -- Components 62
+0.670337192045
+User 2 -- Components 62
+0.911404605882
+User 3 -- Components 62
+1.0
+User 4 -- Components 62
+1.0
+User 5 -- Components 62
+1.0
+User 1 -- Components 63
+0.674477827115
+User 2 -- Components 63
+0.915240294205
+User 3 -- Components 63
+1.0
+User 4 -- Components 63
+1.0
+User 5 -- Components 63
+1.0
+User 1 -- Components 64
+0.678566959176
+User 2 -- Components 64
+0.91904307773
+User 3 -- Components 64
+1.0
+User 4 -- Components 64
+1.0
+User 5 -- Components 64
+1.0
+User 1 -- Components 65
+0.682480390461
+User 2 -- Components 65
+0.922736111855
+User 3 -- Components 65
+1.0
+User 4 -- Components 65
+1.0
+User 5 -- Components 65
+1.0
+User 1 -- Components 66
+0.686373176165
+User 2 -- Components 66
+0.926407913578
+User 3 -- Components 66
+1.0
+User 4 -- Components 66
+1.0
+User 5 -- Components 66
+1.0
+User 1 -- Components 67
+0.690228407976
+User 2 -- Components 67
+0.930028156541
+User 3 -- Components 67
+1.0
+User 4 -- Components 67
+1.0
+User 5 -- Components 67
+1.0
+User 1 -- Components 68
+0.694018495999
+User 2 -- Components 68
+0.933491079273
+User 3 -- Components 68
+1.0
+User 4 -- Components 68
+1.0
+User 5 -- Components 68
+1.0
+User 1 -- Components 69
+0.69778902567
+User 2 -- Components 69
+0.936801004112
+User 3 -- Components 69
+1.0
+User 4 -- Components 69
+1.0
+User 5 -- Components 69
+1.0
+User 1 -- Components 70
+0.701547445134
+User 2 -- Components 70
+0.940082582561
+User 3 -- Components 70
+1.0
+User 4 -- Components 70
+1.0
+User 5 -- Components 70
+1.0
+User 1 -- Components 71
+0.705264904865
+User 2 -- Components 71
+0.943292022067
+User 3 -- Components 71
+1.0
+User 4 -- Components 71
+1.0
+User 5 -- Components 71
+1.0
+User 1 -- Components 72
+0.708907203875
+User 2 -- Components 72
+0.946444849361
+User 3 -- Components 72
+1.0
+User 4 -- Components 72
+1.0
+User 5 -- Components 72
+1.0
+User 1 -- Components 73
+0.712509477835
+User 2 -- Components 73
+0.949460500304
+User 3 -- Components 73
+1.0
+User 4 -- Components 73
+1.0
+User 5 -- Components 73
+1.0
+User 1 -- Components 74
+0.716073677445
+User 2 -- Components 74
+0.952418923274
+User 3 -- Components 74
+1.0
+User 4 -- Components 74
+1.0
+User 5 -- Components 74
+1.0
+User 1 -- Components 75
+0.71959294999
+User 2 -- Components 75
+0.955272822446
+User 3 -- Components 75
+1.0
+User 4 -- Components 75
+1.0
+User 5 -- Components 75
+1.0
+User 1 -- Components 76
+0.723048847616
+User 2 -- Components 76
+0.957904248268
+User 3 -- Components 76
+1.0
+User 4 -- Components 76
+1.0
+User 5 -- Components 76
+1.0
+User 1 -- Components 77
+0.726445836613
+User 2 -- Components 77
+0.960438772074
+User 3 -- Components 77
+1.0
+User 4 -- Components 77
+1.0
+User 5 -- Components 77
+1.0
+User 1 -- Components 78
+0.729789677231
+User 2 -- Components 78
+0.962906013817
+User 3 -- Components 78
+1.0
+User 4 -- Components 78
+1.0
+User 5 -- Components 78
+1.0
+User 1 -- Components 79
+0.733069126762
+User 2 -- Components 79
+0.965313602676
+User 3 -- Components 79
+1.0
+User 4 -- Components 79
+1.0
+User 5 -- Components 79
+1.0
+User 1 -- Components 80
+0.736305270957
+User 2 -- Components 80
+0.967670897868
+User 3 -- Components 80
+1.0
+User 4 -- Components 80
+1.0
+User 5 -- Components 80
+1.0
+User 1 -- Components 81
+0.739488667145
+User 2 -- Components 81
+0.969847869517
+User 3 -- Components 81
+1.0
+User 4 -- Components 81
+1.0
+User 5 -- Components 81
+1.0
+User 1 -- Components 82
+0.742622184299
+User 2 -- Components 82
+0.971914249343
+User 3 -- Components 82
+1.0
+User 4 -- Components 82
+1.0
+User 5 -- Components 82
+1.0
+User 1 -- Components 83
+0.745715816848
+User 2 -- Components 83
+0.973960477025
+User 3 -- Components 83
+1.0
+User 4 -- Components 83
+1.0
+User 5 -- Components 83
+1.0
+User 1 -- Components 84
+0.748805721506
+User 2 -- Components 84
+0.97597638938
+User 3 -- Components 84
+1.0
+User 4 -- Components 84
+1.0
+User 5 -- Components 84
+1.0
+User 1 -- Components 85
+0.751838148055
+User 2 -- Components 85
+0.977773920165
+User 3 -- Components 85
+1.0
+User 4 -- Components 85
+1.0
+User 5 -- Components 85
+1.0
+User 1 -- Components 86
+0.754810676824
+User 2 -- Components 86
+0.979461955705
+User 3 -- Components 86
+1.0
+User 4 -- Components 86
+1.0
+User 5 -- Components 86
+1.0
+User 1 -- Components 87
+0.757744153838
+User 2 -- Components 87
+0.981116352641
+User 3 -- Components 87
+1.0
+User 4 -- Components 87
+1.0
+User 5 -- Components 87
+1.0
+User 1 -- Components 88
+0.760627667794
+User 2 -- Components 88
+0.982682038386
+User 3 -- Components 88
+1.0
+User 4 -- Components 88
+1.0
+User 5 -- Components 88
+1.0
+User 1 -- Components 89
+0.763465559996
+User 2 -- Components 89
+0.984227193713
+User 3 -- Components 89
+1.0
+User 4 -- Components 89
+1.0
+User 5 -- Components 89
+1.0
+User 1 -- Components 90
+0.766283557887
+User 2 -- Components 90
+0.985683843094
+User 3 -- Components 90
+1.0
+User 4 -- Components 90
+1.0
+User 5 -- Components 90
+1.0
+User 1 -- Components 91
+0.769084939993
+User 2 -- Components 91
+0.987044457457
+User 3 -- Components 91
+1.0
+User 4 -- Components 91
+1.0
+User 5 -- Components 91
+1.0
+User 1 -- Components 92
+0.771820884024
+User 2 -- Components 92
+0.988305935724
+User 3 -- Components 92
+1.0
+User 4 -- Components 92
+1.0
+User 5 -- Components 92
+1.0
+User 1 -- Components 93
+0.774525327485
+User 2 -- Components 93
+0.989469459538
+User 3 -- Components 93
+1.0
+User 4 -- Components 93
+1.0
+User 5 -- Components 93
+1.0
+User 1 -- Components 94
+0.777205187351
+User 2 -- Components 94
+0.9906163784
+User 3 -- Components 94
+1.0
+User 4 -- Components 94
+1.0
+User 5 -- Components 94
+1.0
+User 1 -- Components 95
+0.77984279063
+User 2 -- Components 95
+0.991701444739
+User 3 -- Components 95
+1.0
+User 4 -- Components 95
+1.0
+User 5 -- Components 95
+1.0
+User 1 -- Components 96
+0.78247472913
+User 2 -- Components 96
+0.992727724277
+User 3 -- Components 96
+1.0
+User 4 -- Components 96
+1.0
+User 5 -- Components 96
+1.0
+User 1 -- Components 97
+0.785069262382
+User 2 -- Components 97
+0.993624682055
+User 3 -- Components 97
+1.0
+User 4 -- Components 97
+1.0
+User 5 -- Components 97
+1.0
+User 1 -- Components 98
+0.787636046647
+User 2 -- Components 98
+0.99447776951
+User 3 -- Components 98
+1.0
+User 4 -- Components 98
+1.0
+User 5 -- Components 98
+1.0
+User 1 -- Components 99
+0.790174785731
+User 2 -- Components 99
+0.995255586861
+User 3 -- Components 99
+1.0
+User 4 -- Components 99
+1.0
+User 5 -- Components 99
+1.0
+User 1 -- Components 100
+0.79270540542
+User 2 -- Components 100
+0.995956512416
+User 3 -- Components 100
+1.0
+User 4 -- Components 100
+1.0
+User 5 -- Components 100
+1.0
+User 1 -- Components 101
+0.795154180272
+User 2 -- Components 101
+0.996595073174
+User 3 -- Components 101
+1.0
+User 4 -- Components 101
+1.0
+User 5 -- Components 101
+1.0
+User 1 -- Components 102
+0.797596945181
+User 2 -- Components 102
+0.997133145991
+User 3 -- Components 102
+1.0
+User 4 -- Components 102
+1.0
+User 5 -- Components 102
+1.0
+User 1 -- Components 103
+0.799985274417
+User 2 -- Components 103
+0.997629353139
+User 3 -- Components 103
+1.0
+User 4 -- Components 103
+1.0
+User 5 -- Components 103
+1.0
+User 1 -- Components 104
+0.802347335444
+User 2 -- Components 104
+0.998073101555
+User 3 -- Components 104
+1.0
+User 4 -- Components 104
+1.0
+User 5 -- Components 104
+1.0
+User 1 -- Components 105
+0.804679166839
+User 2 -- Components 105
+0.998429397328
+User 3 -- Components 105
+1.0
+User 4 -- Components 105
+1.0
+User 5 -- Components 105
+1.0
+User 1 -- Components 106
+0.806995807249
+User 2 -- Components 106
+0.998736749069
+User 3 -- Components 106
+1.0
+User 4 -- Components 106
+1.0
+User 5 -- Components 106
+1.0
+User 1 -- Components 107
+0.809294377318
+User 2 -- Components 107
+0.99903762047
+User 3 -- Components 107
+1.0
+User 4 -- Components 107
+1.0
+User 5 -- Components 107
+1.0
+User 1 -- Components 108
+0.811572732041
+User 2 -- Components 108
+0.999305574501
+User 3 -- Components 108
+1.0
+User 4 -- Components 108
+1.0
+User 5 -- Components 108
+1.0
+User 1 -- Components 109
+0.813829599177
+User 2 -- Components 109
+0.999560191723
+User 3 -- Components 109
+1.0
+User 4 -- Components 109
+1.0
+User 5 -- Components 109
+1.0
+User 1 -- Components 110
+0.8160372451
+User 2 -- Components 110
+0.999724450185
+User 3 -- Components 110
+1.0
+User 4 -- Components 110
+1.0
+User 5 -- Components 110
+1.0
+User 1 -- Components 111
+0.818211216693
+User 2 -- Components 111
+0.99983639075
+User 3 -- Components 111
+1.0
+User 4 -- Components 111
+1.0
+User 5 -- Components 111
+1.0
+User 1 -- Components 112
+0.820364100668
+User 2 -- Components 112
+0.999935209593
+User 3 -- Components 112
+1.0
+User 4 -- Components 112
+1.0
+User 5 -- Components 112
+1.0
+User 1 -- Components 113
+0.82248746218
+User 2 -- Components 113
+0.999964923439
+User 3 -- Components 113
+1.0
+User 4 -- Components 113
+1.0
+User 5 -- Components 113
+1.0
+User 1 -- Components 114
+0.824596074345
+User 2 -- Components 114
+0.999992598883
+User 3 -- Components 114
+1.0
+User 4 -- Components 114
+1.0
+User 5 -- Components 114
+1.0
+User 1 -- Components 115
+0.826692699792
+User 2 -- Components 115
+1.0
+User 3 -- Components 115
+1.0
+User 4 -- Components 115
+1.0
+User 5 -- Components 115
+1.0
+User 1 -- Components 116
+0.82875360653
+User 2 -- Components 116
+1.0
+User 3 -- Components 116
+1.0
+User 4 -- Components 116
+1.0
+User 5 -- Components 116
+1.0
+User 1 -- Components 117
+0.830789300124
+User 2 -- Components 117
+1.0
+User 3 -- Components 117
+1.0
+User 4 -- Components 117
+1.0
+User 5 -- Components 117
+1.0
+User 1 -- Components 118
+0.832797265594
+User 2 -- Components 118
+1.0
+User 3 -- Components 118
+1.0
+User 4 -- Components 118
+1.0
+User 5 -- Components 118
+1.0
+User 1 -- Components 119
+0.834795760906
+User 2 -- Components 119
+1.0
+User 3 -- Components 119
+1.0
+User 4 -- Components 119
+1.0
+User 5 -- Components 119
+1.0
+User 1 -- Components 120
+0.836770604432
+User 2 -- Components 120
+1.0
+User 3 -- Components 120
+1.0
+User 4 -- Components 120
+1.0
+User 5 -- Components 120
+1.0
+User 1 -- Components 121
+0.838733987321
+User 2 -- Components 121
+1.0
+User 3 -- Components 121
+1.0
+User 4 -- Components 121
+1.0
+User 5 -- Components 121
+1.0
+User 1 -- Components 122
+0.840651130613
+User 2 -- Components 122
+1.0
+User 3 -- Components 122
+1.0
+User 4 -- Components 122
+1.0
+User 5 -- Components 122
+1.0
+User 1 -- Components 123
+0.842556082398
+User 2 -- Components 123
+1.0
+User 3 -- Components 123
+1.0
+User 4 -- Components 123
+1.0
+User 5 -- Components 123
+1.0
+User 1 -- Components 124
+0.844432058368
+User 2 -- Components 124
+1.0
+User 3 -- Components 124
+1.0
+User 4 -- Components 124
+1.0
+User 5 -- Components 124
+1.0
+User 1 -- Components 125
+0.846286677355
+User 2 -- Components 125
+1.0
+User 3 -- Components 125
+1.0
+User 4 -- Components 125
+1.0
+User 5 -- Components 125
+1.0
+User 1 -- Components 126
+0.848095419565
+User 2 -- Components 126
+1.0
+User 3 -- Components 126
+1.0
+User 4 -- Components 126
+1.0
+User 5 -- Components 126
+1.0
+User 1 -- Components 127
+0.849890621457
+User 2 -- Components 127
+1.0
+User 3 -- Components 127
+1.0
+User 4 -- Components 127
+1.0
+User 5 -- Components 127
+1.0
+User 1 -- Components 128
+0.851661601227
+User 2 -- Components 128
+1.0
+User 3 -- Components 128
+1.0
+User 4 -- Components 128
+1.0
+User 5 -- Components 128
+1.0
+User 1 -- Components 129
+0.853400983243
+User 2 -- Components 129
+1.0
+User 3 -- Components 129
+1.0
+User 4 -- Components 129
+1.0
+User 5 -- Components 129
+1.0
+User 1 -- Components 130
+0.855125198479
+User 2 -- Components 130
+1.0
+User 3 -- Components 130
+1.0
+User 4 -- Components 130
+1.0
+User 5 -- Components 130
+1.0
+User 1 -- Components 131
+0.856830217701
+User 2 -- Components 131
+1.0
+User 3 -- Components 131
+1.0
+User 4 -- Components 131
+1.0
+User 5 -- Components 131
+1.0
+User 1 -- Components 132
+0.858530787614
+User 2 -- Components 132
+1.0
+User 3 -- Components 132
+1.0
+User 4 -- Components 132
+1.0
+User 5 -- Components 132
+1.0
+User 1 -- Components 133
+0.860212667719
+User 2 -- Components 133
+1.0
+User 3 -- Components 133
+1.0
+User 4 -- Components 133
+1.0
+User 5 -- Components 133
+1.0
+User 1 -- Components 134
+0.861879966788
+User 2 -- Components 134
+1.0
+User 3 -- Components 134
+1.0
+User 4 -- Components 134
+1.0
+User 5 -- Components 134
+1.0
+User 1 -- Components 135
+0.863541164838
+User 2 -- Components 135
+1.0
+User 3 -- Components 135
+1.0
+User 4 -- Components 135
+1.0
+User 5 -- Components 135
+1.0
+User 1 -- Components 136
+0.865185992715
+User 2 -- Components 136
+1.0
+User 3 -- Components 136
+1.0
+User 4 -- Components 136
+1.0
+User 5 -- Components 136
+1.0
+User 1 -- Components 137
+0.866770700096
+User 2 -- Components 137
+1.0
+User 3 -- Components 137
+1.0
+User 4 -- Components 137
+1.0
+User 5 -- Components 137
+1.0
+User 1 -- Components 138
+0.868331451017
+User 2 -- Components 138
+1.0
+User 3 -- Components 138
+1.0
+User 4 -- Components 138
+1.0
+User 5 -- Components 138
+1.0
+User 1 -- Components 139
+0.869879672727
+User 2 -- Components 139
+1.0
+User 3 -- Components 139
+1.0
+User 4 -- Components 139
+1.0
+User 5 -- Components 139
+1.0
+User 1 -- Components 140
+0.87140157499
+User 2 -- Components 140
+1.0
+User 3 -- Components 140
+1.0
+User 4 -- Components 140
+1.0
+User 5 -- Components 140
+1.0
+User 1 -- Components 141
+0.87290574124
+User 2 -- Components 141
+1.0
+User 3 -- Components 141
+1.0
+User 4 -- Components 141
+1.0
+User 5 -- Components 141
+1.0
+User 1 -- Components 142
+0.874402316658
+User 2 -- Components 142
+1.0
+User 3 -- Components 142
+1.0
+User 4 -- Components 142
+1.0
+User 5 -- Components 142
+1.0
+User 1 -- Components 143
+0.875892143662
+User 2 -- Components 143
+1.0
+User 3 -- Components 143
+1.0
+User 4 -- Components 143
+1.0
+User 5 -- Components 143
+1.0
+User 1 -- Components 144
+0.877366471943
+User 2 -- Components 144
+1.0
+User 3 -- Components 144
+1.0
+User 4 -- Components 144
+1.0
+User 5 -- Components 144
+1.0
+User 1 -- Components 145
+0.878827737982
+User 2 -- Components 145
+1.0
+User 3 -- Components 145
+1.0
+User 4 -- Components 145
+1.0
+User 5 -- Components 145
+1.0
+User 1 -- Components 146
+0.880262254804
+User 2 -- Components 146
+1.0
+User 3 -- Components 146
+1.0
+User 4 -- Components 146
+1.0
+User 5 -- Components 146
+1.0
+User 1 -- Components 147
+0.881681324435
+User 2 -- Components 147
+1.0
+User 3 -- Components 147
+1.0
+User 4 -- Components 147
+1.0
+User 5 -- Components 147
+1.0
+User 1 -- Components 148
+0.883094196299
+User 2 -- Components 148
+1.0
+User 3 -- Components 148
+1.0
+User 4 -- Components 148
+1.0
+User 5 -- Components 148
+1.0
+User 1 -- Components 149
+0.884474003178
+User 2 -- Components 149
+1.0
+User 3 -- Components 149
+1.0
+User 4 -- Components 149
+1.0
+User 5 -- Components 149
+1.0
+User 1 -- Components 150
+0.885845669667
+User 2 -- Components 150
+1.0
+User 3 -- Components 150
+1.0
+User 4 -- Components 150
+1.0
+User 5 -- Components 150
+1.0
+User 1 -- Components 151
+0.887196404862
+User 2 -- Components 151
+1.0
+User 3 -- Components 151
+1.0
+User 4 -- Components 151
+1.0
+User 5 -- Components 151
+1.0
+User 1 -- Components 152
+0.888544236047
+User 2 -- Components 152
+1.0
+User 3 -- Components 152
+1.0
+User 4 -- Components 152
+1.0
+User 5 -- Components 152
+1.0
+User 1 -- Components 153
+0.889877748971
+User 2 -- Components 153
+1.0
+User 3 -- Components 153
+1.0
+User 4 -- Components 153
+1.0
+User 5 -- Components 153
+1.0
+User 1 -- Components 154
+0.891180233669
+User 2 -- Components 154
+1.0
+User 3 -- Components 154
+1.0
+User 4 -- Components 154
+1.0
+User 5 -- Components 154
+1.0
+User 1 -- Components 155
+0.892478337021
+User 2 -- Components 155
+1.0
+User 3 -- Components 155
+1.0
+User 4 -- Components 155
+1.0
+User 5 -- Components 155
+1.0
+User 1 -- Components 156
+0.893765836646
+User 2 -- Components 156
+1.0
+User 3 -- Components 156
+1.0
+User 4 -- Components 156
+1.0
+User 5 -- Components 156
+1.0
+User 1 -- Components 157
+0.895037708935
+User 2 -- Components 157
+1.0
+User 3 -- Components 157
+1.0
+User 4 -- Components 157
+1.0
+User 5 -- Components 157
+1.0
+User 1 -- Components 158
+0.896296970615
+User 2 -- Components 158
+1.0
+User 3 -- Components 158
+1.0
+User 4 -- Components 158
+1.0
+User 5 -- Components 158
+1.0
+User 1 -- Components 159
+0.897546060828
+User 2 -- Components 159
+1.0
+User 3 -- Components 159
+1.0
+User 4 -- Components 159
+1.0
+User 5 -- Components 159
+1.0
+User 1 -- Components 160
+0.898772083464
+User 2 -- Components 160
+1.0
+User 3 -- Components 160
+1.0
+User 4 -- Components 160
+1.0
+User 5 -- Components 160
+1.0
+User 1 -- Components 161
+0.899985859482
+User 2 -- Components 161
+1.0
+User 3 -- Components 161
+1.0
+User 4 -- Components 161
+1.0
+User 5 -- Components 161
+1.0
+User 1 -- Components 162
+0.901196082478
+User 2 -- Components 162
+1.0
+User 3 -- Components 162
+1.0
+User 4 -- Components 162
+1.0
+User 5 -- Components 162
+1.0
+User 1 -- Components 163
+0.902400813315
+User 2 -- Components 163
+1.0
+User 3 -- Components 163
+1.0
+User 4 -- Components 163
+1.0
+User 5 -- Components 163
+1.0
+User 1 -- Components 164
+0.903572103545
+User 2 -- Components 164
+1.0
+User 3 -- Components 164
+1.0
+User 4 -- Components 164
+1.0
+User 5 -- Components 164
+1.0
+User 1 -- Components 165
+0.904733320752
+User 2 -- Components 165
+1.0
+User 3 -- Components 165
+1.0
+User 4 -- Components 165
+1.0
+User 5 -- Components 165
+1.0
+User 1 -- Components 166
+0.9058894189
+User 2 -- Components 166
+1.0
+User 3 -- Components 166
+1.0
+User 4 -- Components 166
+1.0
+User 5 -- Components 166
+1.0
+User 1 -- Components 167
+0.907036742107
+User 2 -- Components 167
+1.0
+User 3 -- Components 167
+1.0
+User 4 -- Components 167
+1.0
+User 5 -- Components 167
+1.0
+User 1 -- Components 168
+0.908165760137
+User 2 -- Components 168
+1.0
+User 3 -- Components 168
+1.0
+User 4 -- Components 168
+1.0
+User 5 -- Components 168
+1.0
+User 1 -- Components 169
+0.909287537807
+User 2 -- Components 169
+1.0
+User 3 -- Components 169
+1.0
+User 4 -- Components 169
+1.0
+User 5 -- Components 169
+1.0
+User 1 -- Components 170
+0.910401041375
+User 2 -- Components 170
+1.0
+User 3 -- Components 170
+1.0
+User 4 -- Components 170
+1.0
+User 5 -- Components 170
+1.0
+User 1 -- Components 171
+0.9114955268
+User 2 -- Components 171
+1.0
+User 3 -- Components 171
+1.0
+User 4 -- Components 171
+1.0
+User 5 -- Components 171
+1.0
+User 1 -- Components 172
+0.912573313436
+User 2 -- Components 172
+1.0
+User 3 -- Components 172
+1.0
+User 4 -- Components 172
+1.0
+User 5 -- Components 172
+1.0
+User 1 -- Components 173
+0.913640539642
+User 2 -- Components 173
+1.0
+User 3 -- Components 173
+1.0
+User 4 -- Components 173
+1.0
+User 5 -- Components 173
+1.0
+User 1 -- Components 174
+0.914696662856
+User 2 -- Components 174
+1.0
+User 3 -- Components 174
+1.0
+User 4 -- Components 174
+1.0
+User 5 -- Components 174
+1.0
+User 1 -- Components 175
+0.915743830844
+User 2 -- Components 175
+1.0
+User 3 -- Components 175
+1.0
+User 4 -- Components 175
+1.0
+User 5 -- Components 175
+1.0
+User 1 -- Components 176
+0.916772621312
+User 2 -- Components 176
+1.0
+User 3 -- Components 176
+1.0
+User 4 -- Components 176
+1.0
+User 5 -- Components 176
+1.0
+User 1 -- Components 177
+0.917793078414
+User 2 -- Components 177
+1.0
+User 3 -- Components 177
+1.0
+User 4 -- Components 177
+1.0
+User 5 -- Components 177
+1.0
+User 1 -- Components 178
+0.918800941206
+User 2 -- Components 178
+1.0
+User 3 -- Components 178
+1.0
+User 4 -- Components 178
+1.0
+User 5 -- Components 178
+1.0
+User 1 -- Components 179
+0.919804807094
+User 2 -- Components 179
+1.0
+User 3 -- Components 179
+1.0
+User 4 -- Components 179
+1.0
+User 5 -- Components 179
+1.0
+User 1 -- Components 180
+0.920785709415
+User 2 -- Components 180
+1.0
+User 3 -- Components 180
+1.0
+User 4 -- Components 180
+1.0
+User 5 -- Components 180
+1.0
+User 1 -- Components 181
+0.921762722873
+User 2 -- Components 181
+1.0
+User 3 -- Components 181
+1.0
+User 4 -- Components 181
+1.0
+User 5 -- Components 181
+1.0
+User 1 -- Components 182
+0.922723003178
+User 2 -- Components 182
+1.0
+User 3 -- Components 182
+1.0
+User 4 -- Components 182
+1.0
+User 5 -- Components 182
+1.0
+User 1 -- Components 183
+0.923667603889
+User 2 -- Components 183
+1.0
+User 3 -- Components 183
+1.0
+User 4 -- Components 183
+1.0
+User 5 -- Components 183
+1.0
+User 1 -- Components 184
+0.924607319082
+User 2 -- Components 184
+1.0
+User 3 -- Components 184
+1.0
+User 4 -- Components 184
+1.0
+User 5 -- Components 184
+1.0
+User 1 -- Components 185
+0.925535306225
+User 2 -- Components 185
+1.0
+User 3 -- Components 185
+1.0
+User 4 -- Components 185
+1.0
+User 5 -- Components 185
+1.0
+User 1 -- Components 186
+0.926454489415
+User 2 -- Components 186
+1.0
+User 3 -- Components 186
+1.0
+User 4 -- Components 186
+1.0
+User 5 -- Components 186
+1.0
+User 1 -- Components 187
+0.927365858813
+User 2 -- Components 187
+1.0
+User 3 -- Components 187
+1.0
+User 4 -- Components 187
+1.0
+User 5 -- Components 187
+1.0
+User 1 -- Components 188
+0.928264091642
+User 2 -- Components 188
+1.0
+User 3 -- Components 188
+1.0
+User 4 -- Components 188
+1.0
+User 5 -- Components 188
+1.0
+User 1 -- Components 189
+0.929154014311
+User 2 -- Components 189
+1.0
+User 3 -- Components 189
+1.0
+User 4 -- Components 189
+1.0
+User 5 -- Components 189
+1.0
+User 1 -- Components 190
+0.930038891163
+User 2 -- Components 190
+1.0
+User 3 -- Components 190
+1.0
+User 4 -- Components 190
+1.0
+User 5 -- Components 190
+1.0
+User 1 -- Components 191
+0.930919716755
+User 2 -- Components 191
+1.0
+User 3 -- Components 191
+1.0
+User 4 -- Components 191
+1.0
+User 5 -- Components 191
+1.0
+User 1 -- Components 192
+0.931782775191
+User 2 -- Components 192
+1.0
+User 3 -- Components 192
+1.0
+User 4 -- Components 192
+1.0
+User 5 -- Components 192
+1.0
+User 1 -- Components 193
+0.932643333783
+User 2 -- Components 193
+1.0
+User 3 -- Components 193
+1.0
+User 4 -- Components 193
+1.0
+User 5 -- Components 193
+1.0
+User 1 -- Components 194
+0.933489955196
+User 2 -- Components 194
+1.0
+User 3 -- Components 194
+1.0
+User 4 -- Components 194
+1.0
+User 5 -- Components 194
+1.0
+User 1 -- Components 195
+0.934332719603
+User 2 -- Components 195
+1.0
+User 3 -- Components 195
+1.0
+User 4 -- Components 195
+1.0
+User 5 -- Components 195
+1.0
+User 1 -- Components 196
+0.935170207764
+User 2 -- Components 196
+1.0
+User 3 -- Components 196
+1.0
+User 4 -- Components 196
+1.0
+User 5 -- Components 196
+1.0
+User 1 -- Components 197
+0.935998110407
+User 2 -- Components 197
+1.0
+User 3 -- Components 197
+1.0
+User 4 -- Components 197
+1.0
+User 5 -- Components 197
+1.0
+User 1 -- Components 198
+0.93680916231
+User 2 -- Components 198
+1.0
+User 3 -- Components 198
+1.0
+User 4 -- Components 198
+1.0
+User 5 -- Components 198
+1.0
+User 1 -- Components 199
+0.93761692177
+User 2 -- Components 199
+1.0
+User 3 -- Components 199
+1.0
+User 4 -- Components 199
+1.0
+User 5 -- Components 199
+1.0
+User 1 -- Components 200
+0.938416473901
+User 2 -- Components 200
+1.0
+User 3 -- Components 200
+1.0
+User 4 -- Components 200
+1.0
+User 5 -- Components 200
+1.0
+User 1 -- Components 201
+0.939204399025
+User 2 -- Components 201
+1.0
+User 3 -- Components 201
+1.0
+User 4 -- Components 201
+1.0
+User 5 -- Components 201
+1.0
+User 1 -- Components 202
+0.939981868068
+User 2 -- Components 202
+1.0
+User 3 -- Components 202
+1.0
+User 4 -- Components 202
+1.0
+User 5 -- Components 202
+1.0
+User 1 -- Components 203
+0.940745962431
+User 2 -- Components 203
+1.0
+User 3 -- Components 203
+1.0
+User 4 -- Components 203
+1.0
+User 5 -- Components 203
+1.0
+User 1 -- Components 204
+0.941502299401
+User 2 -- Components 204
+1.0
+User 3 -- Components 204
+1.0
+User 4 -- Components 204
+1.0
+User 5 -- Components 204
+1.0
+User 1 -- Components 205
+0.942253595259
+User 2 -- Components 205
+1.0
+User 3 -- Components 205
+1.0
+User 4 -- Components 205
+1.0
+User 5 -- Components 205
+1.0
+User 1 -- Components 206
+0.942988829675
+User 2 -- Components 206
+1.0
+User 3 -- Components 206
+1.0
+User 4 -- Components 206
+1.0
+User 5 -- Components 206
+1.0
+User 1 -- Components 207
+0.943717363314
+User 2 -- Components 207
+1.0
+User 3 -- Components 207
+1.0
+User 4 -- Components 207
+1.0
+User 5 -- Components 207
+1.0
+User 1 -- Components 208
+0.944443173682
+User 2 -- Components 208
+1.0
+User 3 -- Components 208
+1.0
+User 4 -- Components 208
+1.0
+User 5 -- Components 208
+1.0
+User 1 -- Components 209
+0.94516289678
+User 2 -- Components 209
+1.0
+User 3 -- Components 209
+1.0
+User 4 -- Components 209
+1.0
+User 5 -- Components 209
+1.0
+User 1 -- Components 210
+0.945870529225
+User 2 -- Components 210
+1.0
+User 3 -- Components 210
+1.0
+User 4 -- Components 210
+1.0
+User 5 -- Components 210
+1.0
+User 1 -- Components 211
+0.946575932443
+User 2 -- Components 211
+1.0
+User 3 -- Components 211
+1.0
+User 4 -- Components 211
+1.0
+User 5 -- Components 211
+1.0
+User 1 -- Components 212
+0.947262788681
+User 2 -- Components 212
+1.0
+User 3 -- Components 212
+1.0
+User 4 -- Components 212
+1.0
+User 5 -- Components 212
+1.0
+User 1 -- Components 213
+0.947942329888
+User 2 -- Components 213
+1.0
+User 3 -- Components 213
+1.0
+User 4 -- Components 213
+1.0
+User 5 -- Components 213
+1.0
+User 1 -- Components 214
+0.948610737263
+User 2 -- Components 214
+1.0
+User 3 -- Components 214
+1.0
+User 4 -- Components 214
+1.0
+User 5 -- Components 214
+1.0
+User 1 -- Components 215
+0.949277010669
+User 2 -- Components 215
+1.0
+User 3 -- Components 215
+1.0
+User 4 -- Components 215
+1.0
+User 5 -- Components 215
+1.0
+User 1 -- Components 216
+0.949937902656
+User 2 -- Components 216
+1.0
+User 3 -- Components 216
+1.0
+User 4 -- Components 216
+1.0
+User 5 -- Components 216
+1.0
+User 1 -- Components 217
+0.950591009025
+User 2 -- Components 217
+1.0
+User 3 -- Components 217
+1.0
+User 4 -- Components 217
+1.0
+User 5 -- Components 217
+1.0
+User 1 -- Components 218
+0.951235455702
+User 2 -- Components 218
+1.0
+User 3 -- Components 218
+1.0
+User 4 -- Components 218
+1.0
+User 5 -- Components 218
+1.0
+User 1 -- Components 219
+0.951875180121
+User 2 -- Components 219
+1.0
+User 3 -- Components 219
+1.0
+User 4 -- Components 219
+1.0
+User 5 -- Components 219
+1.0
+User 1 -- Components 220
+0.952507960411
+User 2 -- Components 220
+1.0
+User 3 -- Components 220
+1.0
+User 4 -- Components 220
+1.0
+User 5 -- Components 220
+1.0
+User 1 -- Components 221
+0.953138597526
+User 2 -- Components 221
+1.0
+User 3 -- Components 221
+1.0
+User 4 -- Components 221
+1.0
+User 5 -- Components 221
+1.0
+User 1 -- Components 222
+0.95376501391
+User 2 -- Components 222
+1.0
+User 3 -- Components 222
+1.0
+User 4 -- Components 222
+1.0
+User 5 -- Components 222
+1.0
+User 1 -- Components 223
+0.954385421318
+User 2 -- Components 223
+1.0
+User 3 -- Components 223
+1.0
+User 4 -- Components 223
+1.0
+User 5 -- Components 223
+1.0
+User 1 -- Components 224
+0.954992859213
+User 2 -- Components 224
+1.0
+User 3 -- Components 224
+1.0
+User 4 -- Components 224
+1.0
+User 5 -- Components 224
+1.0
+User 1 -- Components 225
+0.955588514807
+User 2 -- Components 225
+1.0
+User 3 -- Components 225
+1.0
+User 4 -- Components 225
+1.0
+User 5 -- Components 225
+1.0
+User 1 -- Components 226
+0.956177935657
+User 2 -- Components 226
+1.0
+User 3 -- Components 226
+1.0
+User 4 -- Components 226
+1.0
+User 5 -- Components 226
+1.0
+User 1 -- Components 227
+0.956750700442
+User 2 -- Components 227
+1.0
+User 3 -- Components 227
+1.0
+User 4 -- Components 227
+1.0
+User 5 -- Components 227
+1.0
+User 1 -- Components 228
+0.957320669468
+User 2 -- Components 228
+1.0
+User 3 -- Components 228
+1.0
+User 4 -- Components 228
+1.0
+User 5 -- Components 228
+1.0
+User 1 -- Components 229
+0.957889584692
+User 2 -- Components 229
+1.0
+User 3 -- Components 229
+1.0
+User 4 -- Components 229
+1.0
+User 5 -- Components 229
+1.0
+User 1 -- Components 230
+0.958450185548
+User 2 -- Components 230
+1.0
+User 3 -- Components 230
+1.0
+User 4 -- Components 230
+1.0
+User 5 -- Components 230
+1.0
+User 1 -- Components 231
+0.959005772913
+User 2 -- Components 231
+1.0
+User 3 -- Components 231
+1.0
+User 4 -- Components 231
+1.0
+User 5 -- Components 231
+1.0
+User 1 -- Components 232
+0.959555902144
+User 2 -- Components 232
+1.0
+User 3 -- Components 232
+1.0
+User 4 -- Components 232
+1.0
+User 5 -- Components 232
+1.0
+User 1 -- Components 233
+0.960095322766
+User 2 -- Components 233
+1.0
+User 3 -- Components 233
+1.0
+User 4 -- Components 233
+1.0
+User 5 -- Components 233
+1.0
+User 1 -- Components 234
+0.960631598548
+User 2 -- Components 234
+1.0
+User 3 -- Components 234
+1.0
+User 4 -- Components 234
+1.0
+User 5 -- Components 234
+1.0
+User 1 -- Components 235
+0.961160973693
+User 2 -- Components 235
+1.0
+User 3 -- Components 235
+1.0
+User 4 -- Components 235
+1.0
+User 5 -- Components 235
+1.0
+User 1 -- Components 236
+0.961685206923
+User 2 -- Components 236
+1.0
+User 3 -- Components 236
+1.0
+User 4 -- Components 236
+1.0
+User 5 -- Components 236
+1.0
+User 1 -- Components 237
+0.962191003701
+User 2 -- Components 237
+1.0
+User 3 -- Components 237
+1.0
+User 4 -- Components 237
+1.0
+User 5 -- Components 237
+1.0
+User 1 -- Components 238
+0.962694048265
+User 2 -- Components 238
+1.0
+User 3 -- Components 238
+1.0
+User 4 -- Components 238
+1.0
+User 5 -- Components 238
+1.0
+User 1 -- Components 239
+0.963190043589
+User 2 -- Components 239
+1.0
+User 3 -- Components 239
+1.0
+User 4 -- Components 239
+1.0
+User 5 -- Components 239
+1.0
+User 1 -- Components 240
+0.963684316185
+User 2 -- Components 240
+1.0
+User 3 -- Components 240
+1.0
+User 4 -- Components 240
+1.0
+User 5 -- Components 240
+1.0
+User 1 -- Components 241
+0.964174693027
+User 2 -- Components 241
+1.0
+User 3 -- Components 241
+1.0
+User 4 -- Components 241
+1.0
+User 5 -- Components 241
+1.0
+User 1 -- Components 242
+0.964657160125
+User 2 -- Components 242
+1.0
+User 3 -- Components 242
+1.0
+User 4 -- Components 242
+1.0
+User 5 -- Components 242
+1.0
+User 1 -- Components 243
+0.965138255031
+User 2 -- Components 243
+1.0
+User 3 -- Components 243
+1.0
+User 4 -- Components 243
+1.0
+User 5 -- Components 243
+1.0
+User 1 -- Components 244
+0.965610842629
+User 2 -- Components 244
+1.0
+User 3 -- Components 244
+1.0
+User 4 -- Components 244
+1.0
+User 5 -- Components 244
+1.0
+User 1 -- Components 245
+0.966073097581
+User 2 -- Components 245
+1.0
+User 3 -- Components 245
+1.0
+User 4 -- Components 245
+1.0
+User 5 -- Components 245
+1.0
+User 1 -- Components 246
+0.966531696498
+User 2 -- Components 246
+1.0
+User 3 -- Components 246
+1.0
+User 4 -- Components 246
+1.0
+User 5 -- Components 246
+1.0
+User 1 -- Components 247
+0.966987813871
+User 2 -- Components 247
+1.0
+User 3 -- Components 247
+1.0
+User 4 -- Components 247
+1.0
+User 5 -- Components 247
+1.0
+User 1 -- Components 248
+0.967439051189
+User 2 -- Components 248
+1.0
+User 3 -- Components 248
+1.0
+User 4 -- Components 248
+1.0
+User 5 -- Components 248
+1.0
+User 1 -- Components 249
+0.967878577643
+User 2 -- Components 249
+1.0
+User 3 -- Components 249
+1.0
+User 4 -- Components 249
+1.0
+User 5 -- Components 249
+1.0
+User 1 -- Components 250
+0.968314323656
+User 2 -- Components 250
+1.0
+User 3 -- Components 250
+1.0
+User 4 -- Components 250
+1.0
+User 5 -- Components 250
+1.0
+User 1 -- Components 251
+0.968747749964
+User 2 -- Components 251
+1.0
+User 3 -- Components 251
+1.0
+User 4 -- Components 251
+1.0
+User 5 -- Components 251
+1.0
+User 1 -- Components 252
+0.969178232946
+User 2 -- Components 252
+1.0
+User 3 -- Components 252
+1.0
+User 4 -- Components 252
+1.0
+User 5 -- Components 252
+1.0
+User 1 -- Components 253
+0.969601647481
+User 2 -- Components 253
+1.0
+User 3 -- Components 253
+1.0
+User 4 -- Components 253
+1.0
+User 5 -- Components 253
+1.0
+User 1 -- Components 254
+0.970016978638
+User 2 -- Components 254
+1.0
+User 3 -- Components 254
+1.0
+User 4 -- Components 254
+1.0
+User 5 -- Components 254
+1.0
+User 1 -- Components 255
+0.970426837383
+User 2 -- Components 255
+1.0
+User 3 -- Components 255
+1.0
+User 4 -- Components 255
+1.0
+User 5 -- Components 255
+1.0
+User 1 -- Components 256
+0.970833489306
+User 2 -- Components 256
+1.0
+User 3 -- Components 256
+1.0
+User 4 -- Components 256
+1.0
+User 5 -- Components 256
+1.0
+User 1 -- Components 257
+0.971237731451
+User 2 -- Components 257
+1.0
+User 3 -- Components 257
+1.0
+User 4 -- Components 257
+1.0
+User 5 -- Components 257
+1.0
+User 1 -- Components 258
+0.971635387279
+User 2 -- Components 258
+1.0
+User 3 -- Components 258
+1.0
+User 4 -- Components 258
+1.0
+User 5 -- Components 258
+1.0
+User 1 -- Components 259
+0.972029781202
+User 2 -- Components 259
+1.0
+User 3 -- Components 259
+1.0
+User 4 -- Components 259
+1.0
+User 5 -- Components 259
+1.0
+User 1 -- Components 260
+0.972423016261
+User 2 -- Components 260
+1.0
+User 3 -- Components 260
+1.0
+User 4 -- Components 260
+1.0
+User 5 -- Components 260
+1.0
+User 1 -- Components 261
+0.972811049854
+User 2 -- Components 261
+1.0
+User 3 -- Components 261
+1.0
+User 4 -- Components 261
+1.0
+User 5 -- Components 261
+1.0
+User 1 -- Components 262
+0.973192166597
+User 2 -- Components 262
+1.0
+User 3 -- Components 262
+1.0
+User 4 -- Components 262
+1.0
+User 5 -- Components 262
+1.0
+User 1 -- Components 263
+0.973569007007
+User 2 -- Components 263
+1.0
+User 3 -- Components 263
+1.0
+User 4 -- Components 263
+1.0
+User 5 -- Components 263
+1.0
+User 1 -- Components 264
+0.973942715509
+User 2 -- Components 264
+1.0
+User 3 -- Components 264
+1.0
+User 4 -- Components 264
+1.0
+User 5 -- Components 264
+1.0
+User 1 -- Components 265
+0.97430841033
+User 2 -- Components 265
+1.0
+User 3 -- Components 265
+1.0
+User 4 -- Components 265
+1.0
+User 5 -- Components 265
+1.0
+User 1 -- Components 266
+0.974666422338
+User 2 -- Components 266
+1.0
+User 3 -- Components 266
+1.0
+User 4 -- Components 266
+1.0
+User 5 -- Components 266
+1.0
+User 1 -- Components 267
+0.975020375146
+User 2 -- Components 267
+1.0
+User 3 -- Components 267
+1.0
+User 4 -- Components 267
+1.0
+User 5 -- Components 267
+1.0
+User 1 -- Components 268
+0.975370779591
+User 2 -- Components 268
+1.0
+User 3 -- Components 268
+1.0
+User 4 -- Components 268
+1.0
+User 5 -- Components 268
+1.0
+User 1 -- Components 269
+0.975717830923
+User 2 -- Components 269
+1.0
+User 3 -- Components 269
+1.0
+User 4 -- Components 269
+1.0
+User 5 -- Components 269
+1.0
+User 1 -- Components 270
+0.976059938928
+User 2 -- Components 270
+1.0
+User 3 -- Components 270
+1.0
+User 4 -- Components 270
+1.0
+User 5 -- Components 270
+1.0
+User 1 -- Components 271
+0.976397386948
+User 2 -- Components 271
+1.0
+User 3 -- Components 271
+1.0
+User 4 -- Components 271
+1.0
+User 5 -- Components 271
+1.0
+User 1 -- Components 272
+0.976729736719
+User 2 -- Components 272
+1.0
+User 3 -- Components 272
+1.0
+User 4 -- Components 272
+1.0
+User 5 -- Components 272
+1.0
+User 1 -- Components 273
+0.977058341869
+User 2 -- Components 273
+1.0
+User 3 -- Components 273
+1.0
+User 4 -- Components 273
+1.0
+User 5 -- Components 273
+1.0
+User 1 -- Components 274
+0.977382905949
+User 2 -- Components 274
+1.0
+User 3 -- Components 274
+1.0
+User 4 -- Components 274
+1.0
+User 5 -- Components 274
+1.0
+User 1 -- Components 275
+0.977703966414
+User 2 -- Components 275
+1.0
+User 3 -- Components 275
+1.0
+User 4 -- Components 275
+1.0
+User 5 -- Components 275
+1.0
+User 1 -- Components 276
+0.978021341741
+User 2 -- Components 276
+1.0
+User 3 -- Components 276
+1.0
+User 4 -- Components 276
+1.0
+User 5 -- Components 276
+1.0
+User 1 -- Components 277
+0.978334729354
+User 2 -- Components 277
+1.0
+User 3 -- Components 277
+1.0
+User 4 -- Components 277
+1.0
+User 5 -- Components 277
+1.0
+User 1 -- Components 278
+0.978644242753
+User 2 -- Components 278
+1.0
+User 3 -- Components 278
+1.0
+User 4 -- Components 278
+1.0
+User 5 -- Components 278
+1.0
+User 1 -- Components 279
+0.978949092502
+User 2 -- Components 279
+1.0
+User 3 -- Components 279
+1.0
+User 4 -- Components 279
+1.0
+User 5 -- Components 279
+1.0
+User 1 -- Components 280
+0.979252042983
+User 2 -- Components 280
+1.0
+User 3 -- Components 280
+1.0
+User 4 -- Components 280
+1.0
+User 5 -- Components 280
+1.0
+User 1 -- Components 281
+0.979553585154
+User 2 -- Components 281
+1.0
+User 3 -- Components 281
+1.0
+User 4 -- Components 281
+1.0
+User 5 -- Components 281
+1.0
+User 1 -- Components 282
+0.979849665301
+User 2 -- Components 282
+1.0
+User 3 -- Components 282
+1.0
+User 4 -- Components 282
+1.0
+User 5 -- Components 282
+1.0
+User 1 -- Components 283
+0.98014162371
+User 2 -- Components 283
+1.0
+User 3 -- Components 283
+1.0
+User 4 -- Components 283
+1.0
+User 5 -- Components 283
+1.0
+User 1 -- Components 284
+0.980428022384
+User 2 -- Components 284
+1.0
+User 3 -- Components 284
+1.0
+User 4 -- Components 284
+1.0
+User 5 -- Components 284
+1.0
+User 1 -- Components 285
+0.980711486825
+User 2 -- Components 285
+1.0
+User 3 -- Components 285
+1.0
+User 4 -- Components 285
+1.0
+User 5 -- Components 285
+1.0
+User 1 -- Components 286
+0.980989115305
+User 2 -- Components 286
+1.0
+User 3 -- Components 286
+1.0
+User 4 -- Components 286
+1.0
+User 5 -- Components 286
+1.0
+User 1 -- Components 287
+0.98126403152
+User 2 -- Components 287
+1.0
+User 3 -- Components 287
+1.0
+User 4 -- Components 287
+1.0
+User 5 -- Components 287
+1.0
+User 1 -- Components 288
+0.981536548186
+User 2 -- Components 288
+1.0
+User 3 -- Components 288
+1.0
+User 4 -- Components 288
+1.0
+User 5 -- Components 288
+1.0
+User 1 -- Components 289
+0.98180444494
+User 2 -- Components 289
+1.0
+User 3 -- Components 289
+1.0
+User 4 -- Components 289
+1.0
+User 5 -- Components 289
+1.0
+User 1 -- Components 290
+0.982070895704
+User 2 -- Components 290
+1.0
+User 3 -- Components 290
+1.0
+User 4 -- Components 290
+1.0
+User 5 -- Components 290
+1.0
+User 1 -- Components 291
+0.982336376597
+User 2 -- Components 291
+1.0
+User 3 -- Components 291
+1.0
+User 4 -- Components 291
+1.0
+User 5 -- Components 291
+1.0
+User 1 -- Components 292
+0.98259433142
+User 2 -- Components 292
+1.0
+User 3 -- Components 292
+1.0
+User 4 -- Components 292
+1.0
+User 5 -- Components 292
+1.0
+User 1 -- Components 293
+0.982849965639
+User 2 -- Components 293
+1.0
+User 3 -- Components 293
+1.0
+User 4 -- Components 293
+1.0
+User 5 -- Components 293
+1.0
+User 1 -- Components 294
+0.983103978192
+User 2 -- Components 294
+1.0
+User 3 -- Components 294
+1.0
+User 4 -- Components 294
+1.0
+User 5 -- Components 294
+1.0
+User 1 -- Components 295
+0.983356164985
+User 2 -- Components 295
+1.0
+User 3 -- Components 295
+1.0
+User 4 -- Components 295
+1.0
+User 5 -- Components 295
+1.0
+User 1 -- Components 296
+0.983604975645
+User 2 -- Components 296
+1.0
+User 3 -- Components 296
+1.0
+User 4 -- Components 296
+1.0
+User 5 -- Components 296
+1.0
+User 1 -- Components 297
+0.98384970634
+User 2 -- Components 297
+1.0
+User 3 -- Components 297
+1.0
+User 4 -- Components 297
+1.0
+User 5 -- Components 297
+1.0
+User 1 -- Components 298
+0.984094232228
+User 2 -- Components 298
+1.0
+User 3 -- Components 298
+1.0
+User 4 -- Components 298
+1.0
+User 5 -- Components 298
+1.0
+User 1 -- Components 299
+0.984332071253
+User 2 -- Components 299
+1.0
+User 3 -- Components 299
+1.0
+User 4 -- Components 299
+1.0
+User 5 -- Components 299
+1.0
+User 1 -- Components 300
+0.984564033402
+User 2 -- Components 300
+1.0
+User 3 -- Components 300
+1.0
+User 4 -- Components 300
+1.0
+User 5 -- Components 300
+1.0
+User 1 -- Components 301
+0.984793141545
+User 2 -- Components 301
+1.0
+User 3 -- Components 301
+1.0
+User 4 -- Components 301
+1.0
+User 5 -- Components 301
+1.0
+User 1 -- Components 302
+0.985021313808
+User 2 -- Components 302
+1.0
+User 3 -- Components 302
+1.0
+User 4 -- Components 302
+1.0
+User 5 -- Components 302
+1.0
+User 1 -- Components 303
+0.985248298545
+User 2 -- Components 303
+1.0
+User 3 -- Components 303
+1.0
+User 4 -- Components 303
+1.0
+User 5 -- Components 303
+1.0
+User 1 -- Components 304
+0.985472124424
+User 2 -- Components 304
+1.0
+User 3 -- Components 304
+1.0
+User 4 -- Components 304
+1.0
+User 5 -- Components 304
+1.0
+User 1 -- Components 305
+0.985694911247
+User 2 -- Components 305
+1.0
+User 3 -- Components 305
+1.0
+User 4 -- Components 305
+1.0
+User 5 -- Components 305
+1.0
+User 1 -- Components 306
+0.985914554465
+User 2 -- Components 306
+1.0
+User 3 -- Components 306
+1.0
+User 4 -- Components 306
+1.0
+User 5 -- Components 306
+1.0
+User 1 -- Components 307
+0.986128983008
+User 2 -- Components 307
+1.0
+User 3 -- Components 307
+1.0
+User 4 -- Components 307
+1.0
+User 5 -- Components 307
+1.0
+User 1 -- Components 308
+0.986341586047
+User 2 -- Components 308
+1.0
+User 3 -- Components 308
+1.0
+User 4 -- Components 308
+1.0
+User 5 -- Components 308
+1.0
+User 1 -- Components 309
+0.986552053667
+User 2 -- Components 309
+1.0
+User 3 -- Components 309
+1.0
+User 4 -- Components 309
+1.0
+User 5 -- Components 309
+1.0
+User 1 -- Components 310
+0.98675855502
+User 2 -- Components 310
+1.0
+User 3 -- Components 310
+1.0
+User 4 -- Components 310
+1.0
+User 5 -- Components 310
+1.0
+User 1 -- Components 311
+0.986964987767
+User 2 -- Components 311
+1.0
+User 3 -- Components 311
+1.0
+User 4 -- Components 311
+1.0
+User 5 -- Components 311
+1.0
+User 1 -- Components 312
+0.987168825441
+User 2 -- Components 312
+1.0
+User 3 -- Components 312
+1.0
+User 4 -- Components 312
+1.0
+User 5 -- Components 312
+1.0
+User 1 -- Components 313
+0.987370998753
+User 2 -- Components 313
+1.0
+User 3 -- Components 313
+1.0
+User 4 -- Components 313
+1.0
+User 5 -- Components 313
+1.0
+User 1 -- Components 314
+0.987568736208
+User 2 -- Components 314
+1.0
+User 3 -- Components 314
+1.0
+User 4 -- Components 314
+1.0
+User 5 -- Components 314
+1.0
+User 1 -- Components 315
+0.987762650163
+User 2 -- Components 315
+1.0
+User 3 -- Components 315
+1.0
+User 4 -- Components 315
+1.0
+User 5 -- Components 315
+1.0
+User 1 -- Components 316
+0.98795532394
+User 2 -- Components 316
+1.0
+User 3 -- Components 316
+1.0
+User 4 -- Components 316
+1.0
+User 5 -- Components 316
+1.0
+User 1 -- Components 317
+0.988145056494
+User 2 -- Components 317
+1.0
+User 3 -- Components 317
+1.0
+User 4 -- Components 317
+1.0
+User 5 -- Components 317
+1.0
+User 1 -- Components 318
+0.988331642373
+User 2 -- Components 318
+1.0
+User 3 -- Components 318
+1.0
+User 4 -- Components 318
+1.0
+User 5 -- Components 318
+1.0
+User 1 -- Components 319
+0.988516348765
+User 2 -- Components 319
+1.0
+User 3 -- Components 319
+1.0
+User 4 -- Components 319
+1.0
+User 5 -- Components 319
+1.0
+User 1 -- Components 320
+0.988699846593
+User 2 -- Components 320
+1.0
+User 3 -- Components 320
+1.0
+User 4 -- Components 320
+1.0
+User 5 -- Components 320
+1.0
+User 1 -- Components 321
+0.988879288519
+User 2 -- Components 321
+1.0
+User 3 -- Components 321
+1.0
+User 4 -- Components 321
+1.0
+User 5 -- Components 321
+1.0
+User 1 -- Components 322
+0.989057167135
+User 2 -- Components 322
+1.0
+User 3 -- Components 322
+1.0
+User 4 -- Components 322
+1.0
+User 5 -- Components 322
+1.0
+User 1 -- Components 323
+0.989232386242
+User 2 -- Components 323
+1.0
+User 3 -- Components 323
+1.0
+User 4 -- Components 323
+1.0
+User 5 -- Components 323
+1.0
+User 1 -- Components 324
+0.989406438049
+User 2 -- Components 324
+1.0
+User 3 -- Components 324
+1.0
+User 4 -- Components 324
+1.0
+User 5 -- Components 324
+1.0
+User 1 -- Components 325
+0.989576971984
+User 2 -- Components 325
+1.0
+User 3 -- Components 325
+1.0
+User 4 -- Components 325
+1.0
+User 5 -- Components 325
+1.0
+User 1 -- Components 326
+0.989746080453
+User 2 -- Components 326
+1.0
+User 3 -- Components 326
+1.0
+User 4 -- Components 326
+1.0
+User 5 -- Components 326
+1.0
+User 1 -- Components 327
+0.9899139294
+User 2 -- Components 327
+1.0
+User 3 -- Components 327
+1.0
+User 4 -- Components 327
+1.0
+User 5 -- Components 327
+1.0
+User 1 -- Components 328
+0.990080692653
+User 2 -- Components 328
+1.0
+User 3 -- Components 328
+1.0
+User 4 -- Components 328
+1.0
+User 5 -- Components 328
+1.0
+User 1 -- Components 329
+0.990244080619
+User 2 -- Components 329
+1.0
+User 3 -- Components 329
+1.0
+User 4 -- Components 329
+1.0
+User 5 -- Components 329
+1.0
+User 1 -- Components 330
+0.990405149292
+User 2 -- Components 330
+1.0
+User 3 -- Components 330
+1.0
+User 4 -- Components 330
+1.0
+User 5 -- Components 330
+1.0
+User 1 -- Components 331
+0.990562647543
+User 2 -- Components 331
+1.0
+User 3 -- Components 331
+1.0
+User 4 -- Components 331
+1.0
+User 5 -- Components 331
+1.0
+User 1 -- Components 332
+0.990718361593
+User 2 -- Components 332
+1.0
+User 3 -- Components 332
+1.0
+User 4 -- Components 332
+1.0
+User 5 -- Components 332
+1.0
+User 1 -- Components 333
+0.990872233168
+User 2 -- Components 333
+1.0
+User 3 -- Components 333
+1.0
+User 4 -- Components 333
+1.0
+User 5 -- Components 333
+1.0
+User 1 -- Components 334
+0.991021727564
+User 2 -- Components 334
+1.0
+User 3 -- Components 334
+1.0
+User 4 -- Components 334
+1.0
+User 5 -- Components 334
+1.0
+User 1 -- Components 335
+0.991170479446
+User 2 -- Components 335
+1.0
+User 3 -- Components 335
+1.0
+User 4 -- Components 335
+1.0
+User 5 -- Components 335
+1.0
+User 1 -- Components 336
+0.991316085295
+User 2 -- Components 336
+1.0
+User 3 -- Components 336
+1.0
+User 4 -- Components 336
+1.0
+User 5 -- Components 336
+1.0
+User 1 -- Components 337
+0.991461085941
+User 2 -- Components 337
+1.0
+User 3 -- Components 337
+1.0
+User 4 -- Components 337
+1.0
+User 5 -- Components 337
+1.0
+User 1 -- Components 338
+0.991604746063
+User 2 -- Components 338
+1.0
+User 3 -- Components 338
+1.0
+User 4 -- Components 338
+1.0
+User 5 -- Components 338
+1.0
+User 1 -- Components 339
+0.991744640418
+User 2 -- Components 339
+1.0
+User 3 -- Components 339
+1.0
+User 4 -- Components 339
+1.0
+User 5 -- Components 339
+1.0
+User 1 -- Components 340
+0.991884126054
+User 2 -- Components 340
+1.0
+User 3 -- Components 340
+1.0
+User 4 -- Components 340
+1.0
+User 5 -- Components 340
+1.0
+User 1 -- Components 341
+0.992022144004
+User 2 -- Components 341
+1.0
+User 3 -- Components 341
+1.0
+User 4 -- Components 341
+1.0
+User 5 -- Components 341
+1.0
+User 1 -- Components 342
+0.992157751244
+User 2 -- Components 342
+1.0
+User 3 -- Components 342
+1.0
+User 4 -- Components 342
+1.0
+User 5 -- Components 342
+1.0
+User 1 -- Components 343
+0.992290324792
+User 2 -- Components 343
+1.0
+User 3 -- Components 343
+1.0
+User 4 -- Components 343
+1.0
+User 5 -- Components 343
+1.0
+User 1 -- Components 344
+0.992421957287
+User 2 -- Components 344
+1.0
+User 3 -- Components 344
+1.0
+User 4 -- Components 344
+1.0
+User 5 -- Components 344
+1.0
+User 1 -- Components 345
+0.992552743438
+User 2 -- Components 345
+1.0
+User 3 -- Components 345
+1.0
+User 4 -- Components 345
+1.0
+User 5 -- Components 345
+1.0
+User 1 -- Components 346
+0.992680331574
+User 2 -- Components 346
+1.0
+User 3 -- Components 346
+1.0
+User 4 -- Components 346
+1.0
+User 5 -- Components 346
+1.0
+User 1 -- Components 347
+0.992806981019
+User 2 -- Components 347
+1.0
+User 3 -- Components 347
+1.0
+User 4 -- Components 347
+1.0
+User 5 -- Components 347
+1.0
+User 1 -- Components 348
+0.992932831392
+User 2 -- Components 348
+1.0
+User 3 -- Components 348
+1.0
+User 4 -- Components 348
+1.0
+User 5 -- Components 348
+1.0
+User 1 -- Components 349
+0.993057695796
+User 2 -- Components 349
+1.0
+User 3 -- Components 349
+1.0
+User 4 -- Components 349
+1.0
+User 5 -- Components 349
+1.0
+User 1 -- Components 350
+0.993178657419
+User 2 -- Components 350
+1.0
+User 3 -- Components 350
+1.0
+User 4 -- Components 350
+1.0
+User 5 -- Components 350
+1.0
+User 1 -- Components 351
+0.993298421679
+User 2 -- Components 351
+1.0
+User 3 -- Components 351
+1.0
+User 4 -- Components 351
+1.0
+User 5 -- Components 351
+1.0
+User 1 -- Components 352
+0.993417739576
+User 2 -- Components 352
+1.0
+User 3 -- Components 352
+1.0
+User 4 -- Components 352
+1.0
+User 5 -- Components 352
+1.0
+User 1 -- Components 353
+0.993532981029
+User 2 -- Components 353
+1.0
+User 3 -- Components 353
+1.0
+User 4 -- Components 353
+1.0
+User 5 -- Components 353
+1.0
+User 1 -- Components 354
+0.993646449997
+User 2 -- Components 354
+1.0
+User 3 -- Components 354
+1.0
+User 4 -- Components 354
+1.0
+User 5 -- Components 354
+1.0
+User 1 -- Components 355
+0.993758510662
+User 2 -- Components 355
+1.0
+User 3 -- Components 355
+1.0
+User 4 -- Components 355
+1.0
+User 5 -- Components 355
+1.0
+User 1 -- Components 356
+0.993869265086
+User 2 -- Components 356
+1.0
+User 3 -- Components 356
+1.0
+User 4 -- Components 356
+1.0
+User 5 -- Components 356
+1.0
+User 1 -- Components 357
+0.993979016823
+User 2 -- Components 357
+1.0
+User 3 -- Components 357
+1.0
+User 4 -- Components 357
+1.0
+User 5 -- Components 357
+1.0
+User 1 -- Components 358
+0.994087946089
+User 2 -- Components 358
+1.0
+User 3 -- Components 358
+1.0
+User 4 -- Components 358
+1.0
+User 5 -- Components 358
+1.0
+User 1 -- Components 359
+0.994193683925
+User 2 -- Components 359
+1.0
+User 3 -- Components 359
+1.0
+User 4 -- Components 359
+1.0
+User 5 -- Components 359
+1.0
+User 1 -- Components 360
+0.994298336063
+User 2 -- Components 360
+1.0
+User 3 -- Components 360
+1.0
+User 4 -- Components 360
+1.0
+User 5 -- Components 360
+1.0
+User 1 -- Components 361
+0.994401123901
+User 2 -- Components 361
+1.0
+User 3 -- Components 361
+1.0
+User 4 -- Components 361
+1.0
+User 5 -- Components 361
+1.0
+User 1 -- Components 362
+0.994502885848
+User 2 -- Components 362
+1.0
+User 3 -- Components 362
+1.0
+User 4 -- Components 362
+1.0
+User 5 -- Components 362
+1.0
+User 1 -- Components 363
+0.994602597487
+User 2 -- Components 363
+1.0
+User 3 -- Components 363
+1.0
+User 4 -- Components 363
+1.0
+User 5 -- Components 363
+1.0
+User 1 -- Components 364
+0.994701172863
+User 2 -- Components 364
+1.0
+User 3 -- Components 364
+1.0
+User 4 -- Components 364
+1.0
+User 5 -- Components 364
+1.0
+User 1 -- Components 365
+0.994798673988
+User 2 -- Components 365
+1.0
+User 3 -- Components 365
+1.0
+User 4 -- Components 365
+1.0
+User 5 -- Components 365
+1.0
+User 1 -- Components 366
+0.994895402592
+User 2 -- Components 366
+1.0
+User 3 -- Components 366
+1.0
+User 4 -- Components 366
+1.0
+User 5 -- Components 366
+1.0
+User 1 -- Components 367
+0.994991252968
+User 2 -- Components 367
+1.0
+User 3 -- Components 367
+1.0
+User 4 -- Components 367
+1.0
+User 5 -- Components 367
+1.0
+User 1 -- Components 368
+0.995085746973
+User 2 -- Components 368
+1.0
+User 3 -- Components 368
+1.0
+User 4 -- Components 368
+1.0
+User 5 -- Components 368
+1.0
+User 1 -- Components 369
+0.995178372074
+User 2 -- Components 369
+1.0
+User 3 -- Components 369
+1.0
+User 4 -- Components 369
+1.0
+User 5 -- Components 369
+1.0
+User 1 -- Components 370
+0.995269566778
+User 2 -- Components 370
+1.0
+User 3 -- Components 370
+1.0
+User 4 -- Components 370
+1.0
+User 5 -- Components 370
+1.0
+User 1 -- Components 371
+0.995359477519
+User 2 -- Components 371
+1.0
+User 3 -- Components 371
+1.0
+User 4 -- Components 371
+1.0
+User 5 -- Components 371
+1.0
+User 1 -- Components 372
+0.995447995855
+User 2 -- Components 372
+1.0
+User 3 -- Components 372
+1.0
+User 4 -- Components 372
+1.0
+User 5 -- Components 372
+1.0
+User 1 -- Components 373
+0.995533953014
+User 2 -- Components 373
+1.0
+User 3 -- Components 373
+1.0
+User 4 -- Components 373
+1.0
+User 5 -- Components 373
+1.0
+User 1 -- Components 374
+0.995618388131
+User 2 -- Components 374
+1.0
+User 3 -- Components 374
+1.0
+User 4 -- Components 374
+1.0
+User 5 -- Components 374
+1.0
+User 1 -- Components 375
+0.995702246879
+User 2 -- Components 375
+1.0
+User 3 -- Components 375
+1.0
+User 4 -- Components 375
+1.0
+User 5 -- Components 375
+1.0
+User 1 -- Components 376
+0.995784807966
+User 2 -- Components 376
+1.0
+User 3 -- Components 376
+1.0
+User 4 -- Components 376
+1.0
+User 5 -- Components 376
+1.0
+User 1 -- Components 377
+0.995866634485
+User 2 -- Components 377
+1.0
+User 3 -- Components 377
+1.0
+User 4 -- Components 377
+1.0
+User 5 -- Components 377
+1.0
+User 1 -- Components 378
+0.995948116267
+User 2 -- Components 378
+1.0
+User 3 -- Components 378
+1.0
+User 4 -- Components 378
+1.0
+User 5 -- Components 378
+1.0
+User 1 -- Components 379
+0.996028342657
+User 2 -- Components 379
+1.0
+User 3 -- Components 379
+1.0
+User 4 -- Components 379
+1.0
+User 5 -- Components 379
+1.0
+User 1 -- Components 380
+0.996106361271
+User 2 -- Components 380
+1.0
+User 3 -- Components 380
+1.0
+User 4 -- Components 380
+1.0
+User 5 -- Components 380
+1.0
+User 1 -- Components 381
+0.99618398477
+User 2 -- Components 381
+1.0
+User 3 -- Components 381
+1.0
+User 4 -- Components 381
+1.0
+User 5 -- Components 381
+1.0
+User 1 -- Components 382
+0.996259531341
+User 2 -- Components 382
+1.0
+User 3 -- Components 382
+1.0
+User 4 -- Components 382
+1.0
+User 5 -- Components 382
+1.0
+User 1 -- Components 383
+0.996334449387
+User 2 -- Components 383
+1.0
+User 3 -- Components 383
+1.0
+User 4 -- Components 383
+1.0
+User 5 -- Components 383
+1.0
+User 1 -- Components 384
+0.996406756657
+User 2 -- Components 384
+1.0
+User 3 -- Components 384
+1.0
+User 4 -- Components 384
+1.0
+User 5 -- Components 384
+1.0
+User 1 -- Components 385
+0.996478566909
+User 2 -- Components 385
+1.0
+User 3 -- Components 385
+1.0
+User 4 -- Components 385
+1.0
+User 5 -- Components 385
+1.0
+User 1 -- Components 386
+0.996548855331
+User 2 -- Components 386
+1.0
+User 3 -- Components 386
+1.0
+User 4 -- Components 386
+1.0
+User 5 -- Components 386
+1.0
+User 1 -- Components 387
+0.99661848763
+User 2 -- Components 387
+1.0
+User 3 -- Components 387
+1.0
+User 4 -- Components 387
+1.0
+User 5 -- Components 387
+1.0
+User 1 -- Components 388
+0.996687293163
+User 2 -- Components 388
+1.0
+User 3 -- Components 388
+1.0
+User 4 -- Components 388
+1.0
+User 5 -- Components 388
+1.0
+User 1 -- Components 389
+0.996755032498
+User 2 -- Components 389
+1.0
+User 3 -- Components 389
+1.0
+User 4 -- Components 389
+1.0
+User 5 -- Components 389
+1.0
+User 1 -- Components 390
+0.996821554674
+User 2 -- Components 390
+1.0
+User 3 -- Components 390
+1.0
+User 4 -- Components 390
+1.0
+User 5 -- Components 390
+1.0
+User 1 -- Components 391
+0.996887666095
+User 2 -- Components 391
+1.0
+User 3 -- Components 391
+1.0
+User 4 -- Components 391
+1.0
+User 5 -- Components 391
+1.0
+User 1 -- Components 392
+0.996953304741
+User 2 -- Components 392
+1.0
+User 3 -- Components 392
+1.0
+User 4 -- Components 392
+1.0
+User 5 -- Components 392
+1.0
+User 1 -- Components 393
+0.997017407423
+User 2 -- Components 393
+1.0
+User 3 -- Components 393
+1.0
+User 4 -- Components 393
+1.0
+User 5 -- Components 393
+1.0
+User 1 -- Components 394
+0.997080361646
+User 2 -- Components 394
+1.0
+User 3 -- Components 394
+1.0
+User 4 -- Components 394
+1.0
+User 5 -- Components 394
+1.0
+User 1 -- Components 395
+0.997142010353
+User 2 -- Components 395
+1.0
+User 3 -- Components 395
+1.0
+User 4 -- Components 395
+1.0
+User 5 -- Components 395
+1.0
+User 1 -- Components 396
+0.997202291078
+User 2 -- Components 396
+1.0
+User 3 -- Components 396
+1.0
+User 4 -- Components 396
+1.0
+User 5 -- Components 396
+1.0
+User 1 -- Components 397
+0.997261888546
+User 2 -- Components 397
+1.0
+User 3 -- Components 397
+1.0
+User 4 -- Components 397
+1.0
+User 5 -- Components 397
+1.0
+User 1 -- Components 398
+0.997319352566
+User 2 -- Components 398
+1.0
+User 3 -- Components 398
+1.0
+User 4 -- Components 398
+1.0
+User 5 -- Components 398
+1.0
+User 1 -- Components 399
+0.997376167902
+User 2 -- Components 399
+1.0
+User 3 -- Components 399
+1.0
+User 4 -- Components 399
+1.0
+User 5 -- Components 399
+1.0
+User 1 -- Components 400
+0.997432222922
+User 2 -- Components 400
+1.0
+User 3 -- Components 400
+1.0
+User 4 -- Components 400
+1.0
+User 5 -- Components 400
+1.0
+User 1 -- Components 401
+0.997487270045
+User 2 -- Components 401
+1.0
+User 3 -- Components 401
+1.0
+User 4 -- Components 401
+1.0
+User 5 -- Components 401
+1.0
+User 1 -- Components 402
+0.99754101073
+User 2 -- Components 402
+1.0
+User 3 -- Components 402
+1.0
+User 4 -- Components 402
+1.0
+User 5 -- Components 402
+1.0
+User 1 -- Components 403
+0.997593374359
+User 2 -- Components 403
+1.0
+User 3 -- Components 403
+1.0
+User 4 -- Components 403
+1.0
+User 5 -- Components 403
+1.0
+User 1 -- Components 404
+0.997645431884
+User 2 -- Components 404
+1.0
+User 3 -- Components 404
+1.0
+User 4 -- Components 404
+1.0
+User 5 -- Components 404
+1.0
+User 1 -- Components 405
+0.997695800463
+User 2 -- Components 405
+1.0
+User 3 -- Components 405
+1.0
+User 4 -- Components 405
+1.0
+User 5 -- Components 405
+1.0
+User 1 -- Components 406
+0.997745688258
+User 2 -- Components 406
+1.0
+User 3 -- Components 406
+1.0
+User 4 -- Components 406
+1.0
+User 5 -- Components 406
+1.0
+User 1 -- Components 407
+0.997794919474
+User 2 -- Components 407
+1.0
+User 3 -- Components 407
+1.0
+User 4 -- Components 407
+1.0
+User 5 -- Components 407
+1.0
+User 1 -- Components 408
+0.997843433411
+User 2 -- Components 408
+1.0
+User 3 -- Components 408
+1.0
+User 4 -- Components 408
+1.0
+User 5 -- Components 408
+1.0
+User 1 -- Components 409
+0.99789041848
+User 2 -- Components 409
+1.0
+User 3 -- Components 409
+1.0
+User 4 -- Components 409
+1.0
+User 5 -- Components 409
+1.0
+User 1 -- Components 410
+0.997936979741
+User 2 -- Components 410
+1.0
+User 3 -- Components 410
+1.0
+User 4 -- Components 410
+1.0
+User 5 -- Components 410
+1.0
+User 1 -- Components 411
+0.997982630855
+User 2 -- Components 411
+1.0
+User 3 -- Components 411
+1.0
+User 4 -- Components 411
+1.0
+User 5 -- Components 411
+1.0
+User 1 -- Components 412
+0.998027927362
+User 2 -- Components 412
+1.0
+User 3 -- Components 412
+1.0
+User 4 -- Components 412
+1.0
+User 5 -- Components 412
+1.0
+User 1 -- Components 413
+0.998072130339
+User 2 -- Components 413
+1.0
+User 3 -- Components 413
+1.0
+User 4 -- Components 413
+1.0
+User 5 -- Components 413
+1.0
+User 1 -- Components 414
+0.998116020831
+User 2 -- Components 414
+1.0
+User 3 -- Components 414
+1.0
+User 4 -- Components 414
+1.0
+User 5 -- Components 414
+1.0
+User 1 -- Components 415
+0.998158980474
+User 2 -- Components 415
+1.0
+User 3 -- Components 415
+1.0
+User 4 -- Components 415
+1.0
+User 5 -- Components 415
+1.0
+User 1 -- Components 416
+0.998201579471
+User 2 -- Components 416
+1.0
+User 3 -- Components 416
+1.0
+User 4 -- Components 416
+1.0
+User 5 -- Components 416
+1.0
+User 1 -- Components 417
+0.998243991586
+User 2 -- Components 417
+1.0
+User 3 -- Components 417
+1.0
+User 4 -- Components 417
+1.0
+User 5 -- Components 417
+1.0
+User 1 -- Components 418
+0.998285029107
+User 2 -- Components 418
+1.0
+User 3 -- Components 418
+1.0
+User 4 -- Components 418
+1.0
+User 5 -- Components 418
+1.0
+User 1 -- Components 419
+0.998325481877
+User 2 -- Components 419
+1.0
+User 3 -- Components 419
+1.0
+User 4 -- Components 419
+1.0
+User 5 -- Components 419
+1.0
+User 1 -- Components 420
+0.998365678072
+User 2 -- Components 420
+1.0
+User 3 -- Components 420
+1.0
+User 4 -- Components 420
+1.0
+User 5 -- Components 420
+1.0
+User 1 -- Components 421
+0.998404863737
+User 2 -- Components 421
+1.0
+User 3 -- Components 421
+1.0
+User 4 -- Components 421
+1.0
+User 5 -- Components 421
+1.0
+User 1 -- Components 422
+0.998443783513
+User 2 -- Components 422
+1.0
+User 3 -- Components 422
+1.0
+User 4 -- Components 422
+1.0
+User 5 -- Components 422
+1.0
+User 1 -- Components 423
+0.998481554064
+User 2 -- Components 423
+1.0
+User 3 -- Components 423
+1.0
+User 4 -- Components 423
+1.0
+User 5 -- Components 423
+1.0
+User 1 -- Components 424
+0.99851838838
+User 2 -- Components 424
+1.0
+User 3 -- Components 424
+1.0
+User 4 -- Components 424
+1.0
+User 5 -- Components 424
+1.0
+User 1 -- Components 425
+0.998554779508
+User 2 -- Components 425
+1.0
+User 3 -- Components 425
+1.0
+User 4 -- Components 425
+1.0
+User 5 -- Components 425
+1.0
+User 1 -- Components 426
+0.998591110188
+User 2 -- Components 426
+1.0
+User 3 -- Components 426
+1.0
+User 4 -- Components 426
+1.0
+User 5 -- Components 426
+1.0
+User 1 -- Components 427
+0.998626446336
+User 2 -- Components 427
+1.0
+User 3 -- Components 427
+1.0
+User 4 -- Components 427
+1.0
+User 5 -- Components 427
+1.0
+User 1 -- Components 428
+0.998661081097
+User 2 -- Components 428
+1.0
+User 3 -- Components 428
+1.0
+User 4 -- Components 428
+1.0
+User 5 -- Components 428
+1.0
+User 1 -- Components 429
+0.998695292121
+User 2 -- Components 429
+1.0
+User 3 -- Components 429
+1.0
+User 4 -- Components 429
+1.0
+User 5 -- Components 429
+1.0
+User 1 -- Components 430
+0.998728881742
+User 2 -- Components 430
+1.0
+User 3 -- Components 430
+1.0
+User 4 -- Components 430
+1.0
+User 5 -- Components 430
+1.0
+User 1 -- Components 431
+0.998761140125
+User 2 -- Components 431
+1.0
+User 3 -- Components 431
+1.0
+User 4 -- Components 431
+1.0
+User 5 -- Components 431
+1.0
+User 1 -- Components 432
+0.998792616165
+User 2 -- Components 432
+1.0
+User 3 -- Components 432
+1.0
+User 4 -- Components 432
+1.0
+User 5 -- Components 432
+1.0
+User 1 -- Components 433
+0.998823479736
+User 2 -- Components 433
+1.0
+User 3 -- Components 433
+1.0
+User 4 -- Components 433
+1.0
+User 5 -- Components 433
+1.0
+User 1 -- Components 434
+0.998853802962
+User 2 -- Components 434
+1.0
+User 3 -- Components 434
+1.0
+User 4 -- Components 434
+1.0
+User 5 -- Components 434
+1.0
+User 1 -- Components 435
+0.998883804128
+User 2 -- Components 435
+1.0
+User 3 -- Components 435
+1.0
+User 4 -- Components 435
+1.0
+User 5 -- Components 435
+1.0
+User 1 -- Components 436
+0.998913230278
+User 2 -- Components 436
+1.0
+User 3 -- Components 436
+1.0
+User 4 -- Components 436
+1.0
+User 5 -- Components 436
+1.0
+User 1 -- Components 437
+0.998942037513
+User 2 -- Components 437
+1.0
+User 3 -- Components 437
+1.0
+User 4 -- Components 437
+1.0
+User 5 -- Components 437
+1.0
+User 1 -- Components 438
+0.998970546393
+User 2 -- Components 438
+1.0
+User 3 -- Components 438
+1.0
+User 4 -- Components 438
+1.0
+User 5 -- Components 438
+1.0
+User 1 -- Components 439
+0.998998314339
+User 2 -- Components 439
+1.0
+User 3 -- Components 439
+1.0
+User 4 -- Components 439
+1.0
+User 5 -- Components 439
+1.0
+User 1 -- Components 440
+0.999024908953
+User 2 -- Components 440
+1.0
+User 3 -- Components 440
+1.0
+User 4 -- Components 440
+1.0
+User 5 -- Components 440
+1.0
+User 1 -- Components 441
+0.999051081103
+User 2 -- Components 441
+1.0
+User 3 -- Components 441
+1.0
+User 4 -- Components 441
+1.0
+User 5 -- Components 441
+1.0
+User 1 -- Components 442
+0.999076868012
+User 2 -- Components 442
+1.0
+User 3 -- Components 442
+1.0
+User 4 -- Components 442
+1.0
+User 5 -- Components 442
+1.0
+User 1 -- Components 443
+0.999102501729
+User 2 -- Components 443
+1.0
+User 3 -- Components 443
+1.0
+User 4 -- Components 443
+1.0
+User 5 -- Components 443
+1.0
+User 1 -- Components 444
+0.999127044661
+User 2 -- Components 444
+1.0
+User 3 -- Components 444
+1.0
+User 4 -- Components 444
+1.0
+User 5 -- Components 444
+1.0
+User 1 -- Components 445
+0.999151109127
+User 2 -- Components 445
+1.0
+User 3 -- Components 445
+1.0
+User 4 -- Components 445
+1.0
+User 5 -- Components 445
+1.0
+User 1 -- Components 446
+0.999174983599
+User 2 -- Components 446
+1.0
+User 3 -- Components 446
+1.0
+User 4 -- Components 446
+1.0
+User 5 -- Components 446
+1.0
+User 1 -- Components 447
+0.999198316602
+User 2 -- Components 447
+1.0
+User 3 -- Components 447
+1.0
+User 4 -- Components 447
+1.0
+User 5 -- Components 447
+1.0
+User 1 -- Components 448
+0.999221281747
+User 2 -- Components 448
+1.0
+User 3 -- Components 448
+1.0
+User 4 -- Components 448
+1.0
+User 5 -- Components 448
+1.0
+User 1 -- Components 449
+0.999243851175
+User 2 -- Components 449
+1.0
+User 3 -- Components 449
+1.0
+User 4 -- Components 449
+1.0
+User 5 -- Components 449
+1.0
+User 1 -- Components 450
+0.999265715879
+User 2 -- Components 450
+1.0
+User 3 -- Components 450
+1.0
+User 4 -- Components 450
+1.0
+User 5 -- Components 450
+1.0
+User 1 -- Components 451
+0.999287038613
+User 2 -- Components 451
+1.0
+User 3 -- Components 451
+1.0
+User 4 -- Components 451
+1.0
+User 5 -- Components 451
+1.0
+User 1 -- Components 452
+0.999308093175
+User 2 -- Components 452
+1.0
+User 3 -- Components 452
+1.0
+User 4 -- Components 452
+1.0
+User 5 -- Components 452
+1.0
+User 1 -- Components 453
+0.999328523227
+User 2 -- Components 453
+1.0
+User 3 -- Components 453
+1.0
+User 4 -- Components 453
+1.0
+User 5 -- Components 453
+1.0
+User 1 -- Components 454
+0.999348693354
+User 2 -- Components 454
+1.0
+User 3 -- Components 454
+1.0
+User 4 -- Components 454
+1.0
+User 5 -- Components 454
+1.0
+User 1 -- Components 455
+0.999368319126
+User 2 -- Components 455
+1.0
+User 3 -- Components 455
+1.0
+User 4 -- Components 455
+1.0
+User 5 -- Components 455
+1.0
+User 1 -- Components 456
+0.999387780453
+User 2 -- Components 456
+1.0
+User 3 -- Components 456
+1.0
+User 4 -- Components 456
+1.0
+User 5 -- Components 456
+1.0
+User 1 -- Components 457
+0.99940636905
+User 2 -- Components 457
+1.0
+User 3 -- Components 457
+1.0
+User 4 -- Components 457
+1.0
+User 5 -- Components 457
+1.0
+User 1 -- Components 458
+0.999424587059
+User 2 -- Components 458
+1.0
+User 3 -- Components 458
+1.0
+User 4 -- Components 458
+1.0
+User 5 -- Components 458
+1.0
+User 1 -- Components 459
+0.999442346958
+User 2 -- Components 459
+1.0
+User 3 -- Components 459
+1.0
+User 4 -- Components 459
+1.0
+User 5 -- Components 459
+1.0
+User 1 -- Components 460
+0.999459660319
+User 2 -- Components 460
+1.0
+User 3 -- Components 460
+1.0
+User 4 -- Components 460
+1.0
+User 5 -- Components 460
+1.0
+User 1 -- Components 461
+0.999476811613
+User 2 -- Components 461
+1.0
+User 3 -- Components 461
+1.0
+User 4 -- Components 461
+1.0
+User 5 -- Components 461
+1.0
+User 1 -- Components 462
+0.999493560042
+User 2 -- Components 462
+1.0
+User 3 -- Components 462
+1.0
+User 4 -- Components 462
+1.0
+User 5 -- Components 462
+1.0
+User 1 -- Components 463
+0.99950978998
+User 2 -- Components 463
+1.0
+User 3 -- Components 463
+1.0
+User 4 -- Components 463
+1.0
+User 5 -- Components 463
+1.0
+User 1 -- Components 464
+0.999525749213
+User 2 -- Components 464
+1.0
+User 3 -- Components 464
+1.0
+User 4 -- Components 464
+1.0
+User 5 -- Components 464
+1.0
+User 1 -- Components 465
+0.999541284638
+User 2 -- Components 465
+1.0
+User 3 -- Components 465
+1.0
+User 4 -- Components 465
+1.0
+User 5 -- Components 465
+1.0
+User 1 -- Components 466
+0.99955659783
+User 2 -- Components 466
+1.0
+User 3 -- Components 466
+1.0
+User 4 -- Components 466
+1.0
+User 5 -- Components 466
+1.0
+User 1 -- Components 467
+0.999571342799
+User 2 -- Components 467
+1.0
+User 3 -- Components 467
+1.0
+User 4 -- Components 467
+1.0
+User 5 -- Components 467
+1.0
+User 1 -- Components 468
+0.99958574125
+User 2 -- Components 468
+1.0
+User 3 -- Components 468
+1.0
+User 4 -- Components 468
+1.0
+User 5 -- Components 468
+1.0
+User 1 -- Components 469
+0.999599979146
+User 2 -- Components 469
+1.0
+User 3 -- Components 469
+1.0
+User 4 -- Components 469
+1.0
+User 5 -- Components 469
+1.0
+User 1 -- Components 470
+0.99961351944
+User 2 -- Components 470
+1.0
+User 3 -- Components 470
+1.0
+User 4 -- Components 470
+1.0
+User 5 -- Components 470
+1.0
+User 1 -- Components 471
+0.999626374912
+User 2 -- Components 471
+1.0
+User 3 -- Components 471
+1.0
+User 4 -- Components 471
+1.0
+User 5 -- Components 471
+1.0
+User 1 -- Components 472
+0.999639083668
+User 2 -- Components 472
+1.0
+User 3 -- Components 472
+1.0
+User 4 -- Components 472
+1.0
+User 5 -- Components 472
+1.0
+User 1 -- Components 473
+0.9996515738
+User 2 -- Components 473
+1.0
+User 3 -- Components 473
+1.0
+User 4 -- Components 473
+1.0
+User 5 -- Components 473
+1.0
+User 1 -- Components 474
+0.999663913317
+User 2 -- Components 474
+1.0
+User 3 -- Components 474
+1.0
+User 4 -- Components 474
+1.0
+User 5 -- Components 474
+1.0
+User 1 -- Components 475
+0.999675893311
+User 2 -- Components 475
+1.0
+User 3 -- Components 475
+1.0
+User 4 -- Components 475
+1.0
+User 5 -- Components 475
+1.0
+User 1 -- Components 476
+0.99968741665
+User 2 -- Components 476
+1.0
+User 3 -- Components 476
+1.0
+User 4 -- Components 476
+1.0
+User 5 -- Components 476
+1.0
+User 1 -- Components 477
+0.999698776042
+User 2 -- Components 477
+1.0
+User 3 -- Components 477
+1.0
+User 4 -- Components 477
+1.0
+User 5 -- Components 477
+1.0
+User 1 -- Components 478
+0.999709831842
+User 2 -- Components 478
+1.0
+User 3 -- Components 478
+1.0
+User 4 -- Components 478
+1.0
+User 5 -- Components 478
+1.0
+User 1 -- Components 479
+0.999720534541
+User 2 -- Components 479
+1.0
+User 3 -- Components 479
+1.0
+User 4 -- Components 479
+1.0
+User 5 -- Components 479
+1.0
+User 1 -- Components 480
+0.999731135634
+User 2 -- Components 480
+1.0
+User 3 -- Components 480
+1.0
+User 4 -- Components 480
+1.0
+User 5 -- Components 480
+1.0
+User 1 -- Components 481
+0.99974137817
+User 2 -- Components 481
+1.0
+User 3 -- Components 481
+1.0
+User 4 -- Components 481
+1.0
+User 5 -- Components 481
+1.0
+User 1 -- Components 482
+0.99975139489
+User 2 -- Components 482
+1.0
+User 3 -- Components 482
+1.0
+User 4 -- Components 482
+1.0
+User 5 -- Components 482
+1.0
+User 1 -- Components 483
+0.999761184946
+User 2 -- Components 483
+1.0
+User 3 -- Components 483
+1.0
+User 4 -- Components 483
+1.0
+User 5 -- Components 483
+1.0
+User 1 -- Components 484
+0.99977055789
+User 2 -- Components 484
+1.0
+User 3 -- Components 484
+1.0
+User 4 -- Components 484
+1.0
+User 5 -- Components 484
+1.0
+User 1 -- Components 485
+0.999779473404
+User 2 -- Components 485
+1.0
+User 3 -- Components 485
+1.0
+User 4 -- Components 485
+1.0
+User 5 -- Components 485
+1.0
+User 1 -- Components 486
+0.999788264881
+User 2 -- Components 486
+1.0
+User 3 -- Components 486
+1.0
+User 4 -- Components 486
+1.0
+User 5 -- Components 486
+1.0
+User 1 -- Components 487
+0.999796867791
+User 2 -- Components 487
+1.0
+User 3 -- Components 487
+1.0
+User 4 -- Components 487
+1.0
+User 5 -- Components 487
+1.0
+User 1 -- Components 488
+0.999805334877
+User 2 -- Components 488
+1.0
+User 3 -- Components 488
+1.0
+User 4 -- Components 488
+1.0
+User 5 -- Components 488
+1.0
+User 1 -- Components 489
+0.999813314557
+User 2 -- Components 489
+1.0
+User 3 -- Components 489
+1.0
+User 4 -- Components 489
+1.0
+User 5 -- Components 489
+1.0
+User 1 -- Components 490
+0.999821157089
+User 2 -- Components 490
+1.0
+User 3 -- Components 490
+1.0
+User 4 -- Components 490
+1.0
+User 5 -- Components 490
+1.0
+User 1 -- Components 491
+0.999828593282
+User 2 -- Components 491
+1.0
+User 3 -- Components 491
+1.0
+User 4 -- Components 491
+1.0
+User 5 -- Components 491
+1.0
+User 1 -- Components 492
+0.999835874112
+User 2 -- Components 492
+1.0
+User 3 -- Components 492
+1.0
+User 4 -- Components 492
+1.0
+User 5 -- Components 492
+1.0
+User 1 -- Components 493
+0.999843035034
+User 2 -- Components 493
+1.0
+User 3 -- Components 493
+1.0
+User 4 -- Components 493
+1.0
+User 5 -- Components 493
+1.0
+User 1 -- Components 494
+0.999849641242
+User 2 -- Components 494
+1.0
+User 3 -- Components 494
+1.0
+User 4 -- Components 494
+1.0
+User 5 -- Components 494
+1.0
+User 1 -- Components 495
+0.999856100736
+User 2 -- Components 495
+1.0
+User 3 -- Components 495
+1.0
+User 4 -- Components 495
+1.0
+User 5 -- Components 495
+1.0
+User 1 -- Components 496
+0.999862398834
+User 2 -- Components 496
+1.0
+User 3 -- Components 496
+1.0
+User 4 -- Components 496
+1.0
+User 5 -- Components 496
+1.0
+User 1 -- Components 497
+0.999868418454
+User 2 -- Components 497
+1.0
+User 3 -- Components 497
+1.0
+User 4 -- Components 497
+1.0
+User 5 -- Components 497
+1.0
+User 1 -- Components 498
+0.999874376825
+User 2 -- Components 498
+1.0
+User 3 -- Components 498
+1.0
+User 4 -- Components 498
+1.0
+User 5 -- Components 498
+1.0
+User 1 -- Components 499
+0.999880254406
+User 2 -- Components 499
+1.0
+User 3 -- Components 499
+1.0
+User 4 -- Components 499
+1.0
+User 5 -- Components 499
+1.0

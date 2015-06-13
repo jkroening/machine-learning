@@ -1,0 +1,10 @@
+AllMusic / Rovi
+
+key = '6ray5zcnumxeuge9sb75yqgu'
+secret = 'CsnrmAAEnu'
+
+
+Last.fm
+
+API Key: 1486a76d68af81e81d5c9d1e861e5cc2
+Secret: 180dacfc2cbd029bceda21feac60d940

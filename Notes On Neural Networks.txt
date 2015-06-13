@@ -1,0 +1,16 @@
+vector of range(i) x features
+
+for i in range(number of Thetas):
+    z_i = x_i.dot(Theta_i)
+    a_i = sigmoid(z_i)
+
+def sigmoid(x):
+    * sigmoid function here *
+
+
+forward propogation:
+    predicts ys, and defines cost for those predictions
+
+back propogation:
+    backtracks through each level using the defined cost to improve each level of modeling
+

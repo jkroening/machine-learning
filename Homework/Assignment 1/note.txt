@@ -1,0 +1,9 @@
+## Note:
+a linear model is probably not the most realistic fit for this data because
+at some point, if the car is heavy enough you're going to get an MPG of 0.
+so long as we're still talking about cars here, and not boulders, every car
+has an MPG, it will never be 0.  And conversely, a really light car will likely
+achieve better MPG than just slightly worse than the y-intercept, which a
+linear model would suggest.  It's probable that the better fit is some sort of
+inverse function where it's forever in the first quadrant, never touching non-
+positive values.
